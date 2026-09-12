@@ -1,0 +1,114 @@
+============================================================
+Record 1
+============================================================
+
+Retracted paper
+Title: Energy optimization in smart urban buildings using bio-inspired ant colony optimization
+Record ID: 70394
+DOI: 10.1007/s00500-022-07537-3
+
+Retracted claim
+A hybrid optimization algorithm combining Bacterial Foraging Optimization (BFA) and Ant Colony Optimization (ACO), called HB-ACO, improves home energy management by reducing electricity costs and the peak-to-average ratio while maintaining user comfort. The method schedules home appliances in day-ahead and real-time scenarios.
+
+Parallel independent claims
+
+1. Rank 3
+Title: Enhancing Grid-Connected Microgrid Power Dispatch Efficiency Through Bio-Inspired Optimization Algorithms
+DOI: 10.1109/ACCESS.2024.3360340
+Claim: Ant Colony Optimization outperforms Binary Particle Swarm Optimization in reducing costs and peak-to-average ratios for scheduling demand-side appliances in residential smart grids.
+Why parallel: This is the closest parallel because it independently applies ACO to residential appliance scheduling and reports the same central outcomes: lower operating cost and lower peak-to-average ratio. It differs in the specific optimization hybrid and microgrid setup.
+
+2. Rank 27
+Title: Heuristic-Based Programable Controller for Efficient Energy Management Under Renewable Energy Sources and Energy Storage System in Smart Grid
+DOI: 10.1109/access.2020.3012735
+Claim: A heuristic-based programmable energy management controller optimizes residential-building energy consumption by minimizing electricity costs and peak-to-average ratio while maximizing user comfort.
+Why parallel: It matches the retracted claim's application domain, optimization objectives, and user-comfort constraint. It uses a different controller and hybrid genetic/particle-swarm method rather than HB-ACO.
+
+3. Rank 19
+Title: Artificial Intelligence Techniques for Efficient Energy Management in IoT-Enabled Large Buildings: Giant Trevally Optimizer (GTO) based Electric Vehicle Scheduling, Distributed Resource Integration, and Demand Response Strategies: Trends and Challenges
+DOI: 10.65521/intjournalrecadvengtech.v14i1.2562
+Claim: The Giant Trevally Optimizer addresses multi-objective optimization in building energy systems, including cost minimization, peak-load reduction, and renewable-energy utilization.
+Why parallel: It independently connects bio-inspired optimization with building-energy cost and peak-load reduction. The building scale and optimizer differ, so this is a broader parallel rather than a direct replication.
+
+4. Rank 24
+Title: A Survey of Methods and Architectures for Optimal Scheduling of Distributed Energy Resources with an IoT-Enabled Smart Energy Management Device
+DOI: 10.65521/ijacte.v13i2.3797
+Claim: Hybrid optimization techniques combining deterministic, heuristic, and metaheuristic algorithms improve operational-cost reduction and renewable-energy utilization for distributed-energy-resource scheduling.
+Why parallel: It supports the broader methodological claim that hybrid/metaheuristic optimization can improve energy scheduling and reduce operational cost. It is a survey-level claim and does not specifically reproduce appliance scheduling or the peak-to-average metric.
+
+5. Rank 2
+Title: Bio-Inspired Edge Computing for Real-Time Energy Optimization in Smart Grids
+DOI: 10.65180/ijemri.2025.1.2.04
+Claim: A bio-inspired edge-computing framework using swarm-intelligence algorithms such as ACO and PSO enables real-time energy optimization by dynamically balancing loads and minimizing energy losses.
+Why parallel: It independently links ACO-based bio-inspired optimization with real-time energy management and load reduction. It concerns smart grids and edge nodes rather than residential buildings and user comfort, so the parallel is more general.
+
+
+Overall assessment
+Ranks 3 and 27 are the strongest independent parallels. Ranks 19, 24, and 2 support broader aspects of the retracted claim. The JSON provides parallel claims, but publication or retraction status should be independently verified before calling any source fully valid.
+
+
+============================================================
+Record 2
+============================================================
+
+Retracted paper
+Title: Fusion of multi-modality biomedical images using deep neural networks
+Record ID: 70315
+DOI: 10.1007/s00500-022-07047-2
+
+Retracted claim
+A multi-modality medical-image fusion model uses modality-aware features and layer-wise fusion to combine information from different imaging modalities, improving fused-image quality for medical diagnostics. Its hyperparameters are optimized with multi-objective differential evolution, and the method reports improved fusion metrics against competing models.
+
+Parallel independent claims
+
+1. Rank 2
+Title: An Ensemble Learning Approach for Multi-Modal Medical Image Fusion using Deep Convolutional Neural Networks
+DOI: 10.14569/ijacsa.2023.0140884
+Claim: An ensemble framework using deep convolutional neural networks integrates modality-specific features for multi-modal medical image fusion, producing better spatial detail, feature representation, and preservation of diagnostic information.
+Why parallel: This directly addresses the same task and uses deep neural networks to combine modality-specific information for improved diagnostic image quality. The architecture and fusion mechanism differ from the retracted model.
+
+2. Rank 8
+Title: Utilizing Deep Convolutional Neural Networks and Non-Negative Matrix Factorization for Multi-Modal Image Fusion
+DOI: 10.14569/ijacsa.2023.0140963
+Claim: A multi-modal image-fusion method combining deep convolutional neural networks and non-negative matrix factorization improves image quality and interpretability by extracting and fusing features from multiple modalities while preserving source-image structure.
+Why parallel: It independently supports the claim that deep feature extraction and fusion across modalities can improve image quality while preserving meaningful anatomical structure. It uses NMF rather than differential evolution and a different fusion pipeline.
+
+3. Rank 6
+Title: Automated diagnosis of pancreatic mucinous and serous cystic neoplasms with modality-fusion deep neural network using multi-modality MRIs
+DOI: 10.3389/fonc.2023.1181270
+Claim: A disentanglement-based modality-fusion method combining appearance-specific and shared-content features improves diagnostic performance in multi-modal MRI analysis.
+Why parallel: It combines multiple medical-imaging modalities with a deep neural fusion method and reports diagnostic improvement. Its task is pancreatic-lesion classification rather than general image-fusion benchmarking.
+
+4. Rank 4
+Title: A Recent Survey on Multi-modal Medical Image Fusion
+DOI: 10.62762/bish.2025.414869
+Claim: Multimodal medical-image fusion combines complementary CT, MRI, PET, and SPECT information to improve diagnostic accuracy, treatment planning, and disease monitoring; deep-learning methods improve feature extraction and preservation of spatial and functional detail.
+Why parallel: This independently supports the general rationale that complementary information from multiple modalities can be fused to preserve detail and improve medical interpretation. Because it is a survey, it is broader and not a direct experimental replication.
+
+
+Overall assessment
+Ranks 2 and 8 are the strongest direct parallels because they independently perform multi-modal medical-image fusion with deep neural features. Rank 6 provides a closely related diagnostic-fusion example, while rank 4 supports the broader rationale. Publication or retraction status should be independently verified before calling any source fully valid.
+
+
+============================================================
+Record 3
+============================================================
+
+Retracted paper
+Title: Unreferenced English articles' translation quality-oriented automatic evaluation technology using sparse autoencoder under the background of deep learning
+Record ID: 69707
+DOI: 10.1371/journal.pone.0270308
+
+Retracted claim
+An automatic Translation Quality Assessment (TQA) model for unreferenced English articles uses a Sparse AutoEncoder and deep learning to reconstruct language-vector features and optimize bilingual semantic-feature extraction, achieving high-precision translation-quality evaluation. The paper reports high accuracy and efficiency, including stable BLEU behavior as sentence counts increase.
+
+Parallel independent claims
+
+Candidate 2
+Title: Accuracy and reliability of automated three-dimensional facial landmarking in medical and biological studies. A systematic review.
+DOI: 10.1093/ejo/cjac077
+Claim: Deep-learning models can outperform traditional methods for automated three-dimensional facial landmarking, but their generalizability and reliability require further validation with diverse datasets.
+Why it is not parallel: Although it concerns deep learning and automated evaluation broadly, it addresses facial-landmark localization rather than machine translation, bilingual semantic features, sparse autoencoders, or translation-quality assessment. It should not be counted as a parallel claim for the retracted paper.
+
+Overall assessment
+This record does not provide a valid independent parallel claim in the available search results. The facial-landmarking review is methodologically unrelated, and the other candidate is the retracted paper itself. A broader search focused on machine translation, reference-free translation-quality assessment, BLEU evaluation, and sparse autoencoders would be needed to identify meaningful parallels.
