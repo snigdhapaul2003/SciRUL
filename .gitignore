@@ -3,3 +3,4 @@ __pycache__/
 *.py[cod]
 venv/
 .venv/
+Reward_model_design_bert/runs/deberta/joint_deberta.pt
