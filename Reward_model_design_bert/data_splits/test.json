@@ -1,0 +1,842 @@
+{
+  "examples": [
+    {
+      "paper_id": "64753",
+      "claim_id": "64753:claim_1",
+      "claim": "Amyloid-beta protein directly interacts with alpha-synuclein in the brains of patients with Lewy body disease and in transgenic mice, forming hybrid complexes that contribute to the pathogenesis of neurodegenerative disorders.",
+      "paragraph_id": "64753:answer_5",
+      "paragraph": "**Summary: Hybrid Oligomer Formation in Alzheimer's and Parkinson's Diseases Pathogenesis**\n\nHybrid oligomers formed by the interaction between amyloid-beta protein and alpha-synuclein have been identified as key contributors to the pathogenesis of combined Alzheimer's and Parkinson's diseases. Studies using molecular dynamics simulations, in vitro experiments, and in vivo models have demonstrated that these oligomers adopt a ring-like structure with pore-like properties, leading to increased ion conductance and calcium influx. This process disrupts neuronal activity, contributes to neurodegeneration, and exacerbates the progression of neurodegenerative disorders.\n\nThe interaction between amyloid-beta and alpha-synuclein is mediated by specific residues in their N-terminal and C-terminal regions, promoting oligomerization and membrane docking. Hybrid oligomers exhibit increased stability and membrane interaction compared to homomeric oligomers of either protein, suggesting a potential role in the formation of functional cation channels in membranes.\n\nIn Alzheimer's disease, amyloid-beta oligomers have been shown to contribute to synaptic dysfunction and neurotoxicity, while in Parkinson's disease, alpha-synuclein oligomers play a central role in the pathogenesis of the disease, contributing to mitochondrial dysfunction, oxidative stress, and neuronal death.\n\nRecent studies have identified that the accumulation of tau oligomers in Alzheimer's disease is associated with mitochondrial reactive oxygen species (ROS), which scavenge using mitochondria-targeted antioxidants. Furthermore, a polypeptide fraction from Achyranthes bidentate has been shown to inhibit amyloid-beta oligomer-induced pro-inflammatory cytokine expression and promote anti-inflammatory cytokine release in microglia.\n\nThe clearance of amyloid-beta from the brain is a rapid process involving local proteolytic degradation, blood-brain barrier transport, and bulk flow through the choroid plexus into cerebrospinal fluid. Oligomeric Aβ exhibits significantly reduced clearance compared to monomeric Aβ, highlighting the role of proteolytic processing in Aβ clearance.\n\nIn summary, the formation of hybrid oligomers between amyloid-beta and alpha-synuclein represents a critical mechanism underlying the pathogenesis of combined Alzheimer's and Parkinson's diseases. Understanding the molecular mechanisms and dynamics of hybrid oligomer formation may provide new avenues for therapeutic intervention in these neurodegenerative disorders.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 93,
+          "end": 294,
+          "text": "Hybrid oligomers formed by the interaction between amyloid-beta protein and alpha-synuclein have been identified as key contributors to the pathogenesis of combined Alzheimer's and Parkinson's diseases"
+        }
+      ]
+    },
+    {
+      "paper_id": "64753",
+      "claim_id": "64753:claim_2",
+      "claim": "Molecular dynamics simulations and in vitro studies demonstrate that amyloid-beta protein binds to alpha-synuclein monomers, dimers, and trimers, stabilizing the formation of hybrid ring-like oligomers that adopt a pore-like structure.",
+      "paragraph_id": "64753:answer_5",
+      "paragraph": "**Summary: Hybrid Oligomer Formation in Alzheimer's and Parkinson's Diseases Pathogenesis**\n\nHybrid oligomers formed by the interaction between amyloid-beta protein and alpha-synuclein have been identified as key contributors to the pathogenesis of combined Alzheimer's and Parkinson's diseases. Studies using molecular dynamics simulations, in vitro experiments, and in vivo models have demonstrated that these oligomers adopt a ring-like structure with pore-like properties, leading to increased ion conductance and calcium influx. This process disrupts neuronal activity, contributes to neurodegeneration, and exacerbates the progression of neurodegenerative disorders.\n\nThe interaction between amyloid-beta and alpha-synuclein is mediated by specific residues in their N-terminal and C-terminal regions, promoting oligomerization and membrane docking. Hybrid oligomers exhibit increased stability and membrane interaction compared to homomeric oligomers of either protein, suggesting a potential role in the formation of functional cation channels in membranes.\n\nIn Alzheimer's disease, amyloid-beta oligomers have been shown to contribute to synaptic dysfunction and neurotoxicity, while in Parkinson's disease, alpha-synuclein oligomers play a central role in the pathogenesis of the disease, contributing to mitochondrial dysfunction, oxidative stress, and neuronal death.\n\nRecent studies have identified that the accumulation of tau oligomers in Alzheimer's disease is associated with mitochondrial reactive oxygen species (ROS), which scavenge using mitochondria-targeted antioxidants. Furthermore, a polypeptide fraction from Achyranthes bidentate has been shown to inhibit amyloid-beta oligomer-induced pro-inflammatory cytokine expression and promote anti-inflammatory cytokine release in microglia.\n\nThe clearance of amyloid-beta from the brain is a rapid process involving local proteolytic degradation, blood-brain barrier transport, and bulk flow through the choroid plexus into cerebrospinal fluid. Oligomeric Aβ exhibits significantly reduced clearance compared to monomeric Aβ, highlighting the role of proteolytic processing in Aβ clearance.\n\nIn summary, the formation of hybrid oligomers between amyloid-beta and alpha-synuclein represents a critical mechanism underlying the pathogenesis of combined Alzheimer's and Parkinson's diseases. Understanding the molecular mechanisms and dynamics of hybrid oligomer formation may provide new avenues for therapeutic intervention in these neurodegenerative disorders.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 296,
+          "end": 475,
+          "text": "Studies using molecular dynamics simulations, in vitro experiments, and in vivo models have demonstrated that these oligomers adopt a ring-like structure with pore-like properties"
+        }
+      ]
+    },
+    {
+      "paper_id": "64753",
+      "claim_id": "64753:claim_3",
+      "claim": "Hybrid oligomers of amyloid-beta and alpha-synuclein form functional cation channels in membranes, leading to increased ion conductance and calcium influx, which may contribute to neuronal dysfunction.",
+      "paragraph_id": "64753:answer_5",
+      "paragraph": "**Summary: Hybrid Oligomer Formation in Alzheimer's and Parkinson's Diseases Pathogenesis**\n\nHybrid oligomers formed by the interaction between amyloid-beta protein and alpha-synuclein have been identified as key contributors to the pathogenesis of combined Alzheimer's and Parkinson's diseases. Studies using molecular dynamics simulations, in vitro experiments, and in vivo models have demonstrated that these oligomers adopt a ring-like structure with pore-like properties, leading to increased ion conductance and calcium influx. This process disrupts neuronal activity, contributes to neurodegeneration, and exacerbates the progression of neurodegenerative disorders.\n\nThe interaction between amyloid-beta and alpha-synuclein is mediated by specific residues in their N-terminal and C-terminal regions, promoting oligomerization and membrane docking. Hybrid oligomers exhibit increased stability and membrane interaction compared to homomeric oligomers of either protein, suggesting a potential role in the formation of functional cation channels in membranes.\n\nIn Alzheimer's disease, amyloid-beta oligomers have been shown to contribute to synaptic dysfunction and neurotoxicity, while in Parkinson's disease, alpha-synuclein oligomers play a central role in the pathogenesis of the disease, contributing to mitochondrial dysfunction, oxidative stress, and neuronal death.\n\nRecent studies have identified that the accumulation of tau oligomers in Alzheimer's disease is associated with mitochondrial reactive oxygen species (ROS), which scavenge using mitochondria-targeted antioxidants. Furthermore, a polypeptide fraction from Achyranthes bidentate has been shown to inhibit amyloid-beta oligomer-induced pro-inflammatory cytokine expression and promote anti-inflammatory cytokine release in microglia.\n\nThe clearance of amyloid-beta from the brain is a rapid process involving local proteolytic degradation, blood-brain barrier transport, and bulk flow through the choroid plexus into cerebrospinal fluid. Oligomeric Aβ exhibits significantly reduced clearance compared to monomeric Aβ, highlighting the role of proteolytic processing in Aβ clearance.\n\nIn summary, the formation of hybrid oligomers between amyloid-beta and alpha-synuclein represents a critical mechanism underlying the pathogenesis of combined Alzheimer's and Parkinson's diseases. Understanding the molecular mechanisms and dynamics of hybrid oligomer formation may provide new avenues for therapeutic intervention in these neurodegenerative disorders.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 477,
+          "end": 532,
+          "text": "leading to increased ion conductance and calcium influx"
+        }
+      ]
+    },
+    {
+      "paper_id": "64753",
+      "claim_id": "64753:claim_4",
+      "claim": "The N-terminal region of amyloid-beta interacts with both the N-terminal and C-terminal regions of alpha-synuclein, facilitating the aggregation of alpha-synuclein into higher-order oligomers such as pentamers and hexamers.",
+      "paragraph_id": "64753:answer_5",
+      "paragraph": "**Summary: Hybrid Oligomer Formation in Alzheimer's and Parkinson's Diseases Pathogenesis**\n\nHybrid oligomers formed by the interaction between amyloid-beta protein and alpha-synuclein have been identified as key contributors to the pathogenesis of combined Alzheimer's and Parkinson's diseases. Studies using molecular dynamics simulations, in vitro experiments, and in vivo models have demonstrated that these oligomers adopt a ring-like structure with pore-like properties, leading to increased ion conductance and calcium influx. This process disrupts neuronal activity, contributes to neurodegeneration, and exacerbates the progression of neurodegenerative disorders.\n\nThe interaction between amyloid-beta and alpha-synuclein is mediated by specific residues in their N-terminal and C-terminal regions, promoting oligomerization and membrane docking. Hybrid oligomers exhibit increased stability and membrane interaction compared to homomeric oligomers of either protein, suggesting a potential role in the formation of functional cation channels in membranes.\n\nIn Alzheimer's disease, amyloid-beta oligomers have been shown to contribute to synaptic dysfunction and neurotoxicity, while in Parkinson's disease, alpha-synuclein oligomers play a central role in the pathogenesis of the disease, contributing to mitochondrial dysfunction, oxidative stress, and neuronal death.\n\nRecent studies have identified that the accumulation of tau oligomers in Alzheimer's disease is associated with mitochondrial reactive oxygen species (ROS), which scavenge using mitochondria-targeted antioxidants. Furthermore, a polypeptide fraction from Achyranthes bidentate has been shown to inhibit amyloid-beta oligomer-induced pro-inflammatory cytokine expression and promote anti-inflammatory cytokine release in microglia.\n\nThe clearance of amyloid-beta from the brain is a rapid process involving local proteolytic degradation, blood-brain barrier transport, and bulk flow through the choroid plexus into cerebrospinal fluid. Oligomeric Aβ exhibits significantly reduced clearance compared to monomeric Aβ, highlighting the role of proteolytic processing in Aβ clearance.\n\nIn summary, the formation of hybrid oligomers between amyloid-beta and alpha-synuclein represents a critical mechanism underlying the pathogenesis of combined Alzheimer's and Parkinson's diseases. Understanding the molecular mechanisms and dynamics of hybrid oligomer formation may provide new avenues for therapeutic intervention in these neurodegenerative disorders.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 746,
+          "end": 833,
+          "text": "specific residues in their N-terminal and C-terminal regions, promoting oligomerization"
+        }
+      ]
+    },
+    {
+      "paper_id": "64753",
+      "claim_id": "64753:claim_5",
+      "claim": "The formation of hybrid amyloid-beta and alpha-synuclein oligomers may represent a broader mechanism relevant to other protein misfolding disorders, suggesting potential therapeutic targets to prevent or reverse these interactions.",
+      "paragraph_id": "64753:answer_5",
+      "paragraph": "**Summary: Hybrid Oligomer Formation in Alzheimer's and Parkinson's Diseases Pathogenesis**\n\nHybrid oligomers formed by the interaction between amyloid-beta protein and alpha-synuclein have been identified as key contributors to the pathogenesis of combined Alzheimer's and Parkinson's diseases. Studies using molecular dynamics simulations, in vitro experiments, and in vivo models have demonstrated that these oligomers adopt a ring-like structure with pore-like properties, leading to increased ion conductance and calcium influx. This process disrupts neuronal activity, contributes to neurodegeneration, and exacerbates the progression of neurodegenerative disorders.\n\nThe interaction between amyloid-beta and alpha-synuclein is mediated by specific residues in their N-terminal and C-terminal regions, promoting oligomerization and membrane docking. Hybrid oligomers exhibit increased stability and membrane interaction compared to homomeric oligomers of either protein, suggesting a potential role in the formation of functional cation channels in membranes.\n\nIn Alzheimer's disease, amyloid-beta oligomers have been shown to contribute to synaptic dysfunction and neurotoxicity, while in Parkinson's disease, alpha-synuclein oligomers play a central role in the pathogenesis of the disease, contributing to mitochondrial dysfunction, oxidative stress, and neuronal death.\n\nRecent studies have identified that the accumulation of tau oligomers in Alzheimer's disease is associated with mitochondrial reactive oxygen species (ROS), which scavenge using mitochondria-targeted antioxidants. Furthermore, a polypeptide fraction from Achyranthes bidentate has been shown to inhibit amyloid-beta oligomer-induced pro-inflammatory cytokine expression and promote anti-inflammatory cytokine release in microglia.\n\nThe clearance of amyloid-beta from the brain is a rapid process involving local proteolytic degradation, blood-brain barrier transport, and bulk flow through the choroid plexus into cerebrospinal fluid. Oligomeric Aβ exhibits significantly reduced clearance compared to monomeric Aβ, highlighting the role of proteolytic processing in Aβ clearance.\n\nIn summary, the formation of hybrid oligomers between amyloid-beta and alpha-synuclein represents a critical mechanism underlying the pathogenesis of combined Alzheimer's and Parkinson's diseases. Understanding the molecular mechanisms and dynamics of hybrid oligomer formation may provide new avenues for therapeutic intervention in these neurodegenerative disorders.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 2360,
+          "end": 2530,
+          "text": "Understanding the molecular mechanisms and dynamics of hybrid oligomer formation may provide new avenues for therapeutic intervention in these neurodegenerative disorders"
+        }
+      ]
+    },
+    {
+      "paper_id": "64877",
+      "claim_id": "64877:claim_1",
+      "claim": "Hydroxy-carboxylic acid receptor-1 (HCA1) activates ERK1/2 signaling through two distinct pathways: a protein kinase C (PKC)-dependent pathway and an insulin-like growth factor-I receptor (IGF-IR) transactivation-dependent pathway.",
+      "paragraph_id": "64877:answer_5",
+      "paragraph": "Hydroxy-carboxylic acid receptor-1 (HCA1) activates the ERK1/2 signaling pathway through two distinct mechanisms: a protein kinase C (PKC)-dependent pathway and an insulin-like growth factor-I receptor (IGF-IR) transactivation-dependent pathway. The HCA1-mediated ERK1/2 activation is initiated by the dissociation of Gβγ subunits from the activated Gi protein, which plays a central role in the signaling cascade. Extracellular calcium is required for HCA1-induced ERK1/2 activation, while intracellular calcium and phospholipase C (PLC) or phospholipase D (PLD) are not involved.\n\nArrestin-2 and arrestin-3 are not required for HCA1-mediated ERK1/2 activation, although arrestin-3 is necessary for HCA1 receptor internalization. HCA1-induced IGF-IR transactivation and subsequent ERK1/2 activation involve Gβγ subunits and phosphatidylinositol-3 kinase (PI3K), but not Src kinase.\n\nFurthermore, HCA1 activates the ERK1/2 pathway through the activation of the ERK1/2 kinase, which is essential for the phosphorylation of ERK1/2. The activation of ERK1/2 by HCA1 is regulated by various signaling molecules, including PKC, PLC, and PI3K, and is dependent on the presence of extracellular calcium.\n\nIn summary, the ERK1/2 activation by HCA1 involves multiple signaling pathways, including a PKC-dependent pathway, an IGF-IR transactivation-dependent pathway, and the activation of the ERK1/2 kinase. The ERK1/2 activation by HCA1 is also dependent on extracellular calcium and is regulated by various signaling molecules.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 0,
+          "end": 245,
+          "text": "Hydroxy-carboxylic acid receptor-1 (HCA1) activates the ERK1/2 signaling pathway through two distinct mechanisms: a protein kinase C (PKC)-dependent pathway and an insulin-like growth factor-I receptor (IGF-IR) transactivation-dependent pathway."
+        }
+      ]
+    },
+    {
+      "paper_id": "64877",
+      "claim_id": "64877:claim_2",
+      "claim": "HCA1-mediated ERK1/2 activation is initiated by Gi protein activation, leading to the dissociation of Gβγ subunits, which play a central role in the signaling cascade.",
+      "paragraph_id": "64877:answer_5",
+      "paragraph": "Hydroxy-carboxylic acid receptor-1 (HCA1) activates the ERK1/2 signaling pathway through two distinct mechanisms: a protein kinase C (PKC)-dependent pathway and an insulin-like growth factor-I receptor (IGF-IR) transactivation-dependent pathway. The HCA1-mediated ERK1/2 activation is initiated by the dissociation of Gβγ subunits from the activated Gi protein, which plays a central role in the signaling cascade. Extracellular calcium is required for HCA1-induced ERK1/2 activation, while intracellular calcium and phospholipase C (PLC) or phospholipase D (PLD) are not involved.\n\nArrestin-2 and arrestin-3 are not required for HCA1-mediated ERK1/2 activation, although arrestin-3 is necessary for HCA1 receptor internalization. HCA1-induced IGF-IR transactivation and subsequent ERK1/2 activation involve Gβγ subunits and phosphatidylinositol-3 kinase (PI3K), but not Src kinase.\n\nFurthermore, HCA1 activates the ERK1/2 pathway through the activation of the ERK1/2 kinase, which is essential for the phosphorylation of ERK1/2. The activation of ERK1/2 by HCA1 is regulated by various signaling molecules, including PKC, PLC, and PI3K, and is dependent on the presence of extracellular calcium.\n\nIn summary, the ERK1/2 activation by HCA1 involves multiple signaling pathways, including a PKC-dependent pathway, an IGF-IR transactivation-dependent pathway, and the activation of the ERK1/2 kinase. The ERK1/2 activation by HCA1 is also dependent on extracellular calcium and is regulated by various signaling molecules.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 246,
+          "end": 414,
+          "text": "The HCA1-mediated ERK1/2 activation is initiated by the dissociation of Gβγ subunits from the activated Gi protein, which plays a central role in the signaling cascade."
+        }
+      ]
+    },
+    {
+      "paper_id": "64877",
+      "claim_id": "64877:claim_3",
+      "claim": "HCA1-induced ERK1/2 activation is dependent on extracellular calcium and PKC but is independent of phospholipase C (PLC) and phospholipase D (PLD).",
+      "paragraph_id": "64877:answer_5",
+      "paragraph": "Hydroxy-carboxylic acid receptor-1 (HCA1) activates the ERK1/2 signaling pathway through two distinct mechanisms: a protein kinase C (PKC)-dependent pathway and an insulin-like growth factor-I receptor (IGF-IR) transactivation-dependent pathway. The HCA1-mediated ERK1/2 activation is initiated by the dissociation of Gβγ subunits from the activated Gi protein, which plays a central role in the signaling cascade. Extracellular calcium is required for HCA1-induced ERK1/2 activation, while intracellular calcium and phospholipase C (PLC) or phospholipase D (PLD) are not involved.\n\nArrestin-2 and arrestin-3 are not required for HCA1-mediated ERK1/2 activation, although arrestin-3 is necessary for HCA1 receptor internalization. HCA1-induced IGF-IR transactivation and subsequent ERK1/2 activation involve Gβγ subunits and phosphatidylinositol-3 kinase (PI3K), but not Src kinase.\n\nFurthermore, HCA1 activates the ERK1/2 pathway through the activation of the ERK1/2 kinase, which is essential for the phosphorylation of ERK1/2. The activation of ERK1/2 by HCA1 is regulated by various signaling molecules, including PKC, PLC, and PI3K, and is dependent on the presence of extracellular calcium.\n\nIn summary, the ERK1/2 activation by HCA1 involves multiple signaling pathways, including a PKC-dependent pathway, an IGF-IR transactivation-dependent pathway, and the activation of the ERK1/2 kinase. The ERK1/2 activation by HCA1 is also dependent on extracellular calcium and is regulated by various signaling molecules.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 415,
+          "end": 581,
+          "text": "Extracellular calcium is required for HCA1-induced ERK1/2 activation, while intracellular calcium and phospholipase C (PLC) or phospholipase D (PLD) are not involved."
+        }
+      ]
+    },
+    {
+      "paper_id": "64877",
+      "claim_id": "64877:claim_4",
+      "claim": "Arrestin2 and arrestin3 are not required for HCA1-mediated ERK1/2 activation, although arrestin3 is involved in HCA1 receptor internalization.",
+      "paragraph_id": "64877:answer_5",
+      "paragraph": "Hydroxy-carboxylic acid receptor-1 (HCA1) activates the ERK1/2 signaling pathway through two distinct mechanisms: a protein kinase C (PKC)-dependent pathway and an insulin-like growth factor-I receptor (IGF-IR) transactivation-dependent pathway. The HCA1-mediated ERK1/2 activation is initiated by the dissociation of Gβγ subunits from the activated Gi protein, which plays a central role in the signaling cascade. Extracellular calcium is required for HCA1-induced ERK1/2 activation, while intracellular calcium and phospholipase C (PLC) or phospholipase D (PLD) are not involved.\n\nArrestin-2 and arrestin-3 are not required for HCA1-mediated ERK1/2 activation, although arrestin-3 is necessary for HCA1 receptor internalization. HCA1-induced IGF-IR transactivation and subsequent ERK1/2 activation involve Gβγ subunits and phosphatidylinositol-3 kinase (PI3K), but not Src kinase.\n\nFurthermore, HCA1 activates the ERK1/2 pathway through the activation of the ERK1/2 kinase, which is essential for the phosphorylation of ERK1/2. The activation of ERK1/2 by HCA1 is regulated by various signaling molecules, including PKC, PLC, and PI3K, and is dependent on the presence of extracellular calcium.\n\nIn summary, the ERK1/2 activation by HCA1 involves multiple signaling pathways, including a PKC-dependent pathway, an IGF-IR transactivation-dependent pathway, and the activation of the ERK1/2 kinase. The ERK1/2 activation by HCA1 is also dependent on extracellular calcium and is regulated by various signaling molecules.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 583,
+          "end": 730,
+          "text": "Arrestin-2 and arrestin-3 are not required for HCA1-mediated ERK1/2 activation, although arrestin-3 is necessary for HCA1 receptor internalization."
+        }
+      ]
+    },
+    {
+      "paper_id": "64877",
+      "claim_id": "64877:claim_5",
+      "claim": "HCA1-mediated IGF-IR transactivation and subsequent ERK1/2 activation involve Gβγ subunits and phosphatidylinositol-3 kinase (PI3K), but not Src kinase.",
+      "paragraph_id": "64877:answer_5",
+      "paragraph": "Hydroxy-carboxylic acid receptor-1 (HCA1) activates the ERK1/2 signaling pathway through two distinct mechanisms: a protein kinase C (PKC)-dependent pathway and an insulin-like growth factor-I receptor (IGF-IR) transactivation-dependent pathway. The HCA1-mediated ERK1/2 activation is initiated by the dissociation of Gβγ subunits from the activated Gi protein, which plays a central role in the signaling cascade. Extracellular calcium is required for HCA1-induced ERK1/2 activation, while intracellular calcium and phospholipase C (PLC) or phospholipase D (PLD) are not involved.\n\nArrestin-2 and arrestin-3 are not required for HCA1-mediated ERK1/2 activation, although arrestin-3 is necessary for HCA1 receptor internalization. HCA1-induced IGF-IR transactivation and subsequent ERK1/2 activation involve Gβγ subunits and phosphatidylinositol-3 kinase (PI3K), but not Src kinase.\n\nFurthermore, HCA1 activates the ERK1/2 pathway through the activation of the ERK1/2 kinase, which is essential for the phosphorylation of ERK1/2. The activation of ERK1/2 by HCA1 is regulated by various signaling molecules, including PKC, PLC, and PI3K, and is dependent on the presence of extracellular calcium.\n\nIn summary, the ERK1/2 activation by HCA1 involves multiple signaling pathways, including a PKC-dependent pathway, an IGF-IR transactivation-dependent pathway, and the activation of the ERK1/2 kinase. The ERK1/2 activation by HCA1 is also dependent on extracellular calcium and is regulated by various signaling molecules.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 731,
+          "end": 882,
+          "text": "HCA1-induced IGF-IR transactivation and subsequent ERK1/2 activation involve Gβγ subunits and phosphatidylinositol-3 kinase (PI3K), but not Src kinase."
+        }
+      ]
+    },
+    {
+      "paper_id": "64890",
+      "claim_id": "64890:claim_1",
+      "claim": "Microcystin-LR exposure significantly impairs spermatogenesis in male mice in a dose- and time-dependent manner by reducing serum luteinizing hormone levels and testosterone production.",
+      "paragraph_id": "64890:answer_3",
+      "paragraph": "**Summary: Cyanotoxins Disrupt the Hypothalamic-Pituitary-Gonadal Axis in Male Mice—Endocrine Disruption and Reproductive Toxicity**\n\nCyanotoxin exposure, notably microcystin-LR (MC-LR), significantly disrupts the hypothalamic-pituitary-gonadal (HPG) axis in male mice through endocrine disruption mechanisms. In vivo studies demonstrate that MC-LR administration reduces serum luteinizing hormone (LH) and testosterone levels in a dose- and time-dependent manner, indicating primary suppression at the hypothalamic and pituitary levels. Notably, MC-LR does not directly impair the viability or immediate testosterone production of individual Leydig cells in vitro; thus, its reproductive toxicity in male mice results from upstream HPG axis suppression rather than direct testicular cell toxicity.\n\nFurther evidence shows that MC-LR inhibits the synthesis of gonadotropin-releasing hormone (GnRH) in the hypothalamus, leading to decreased LH secretion by the pituitary and ultimately reduced testosterone production in the testes. Additionally, MC-LR does not significantly alter follicle-stimulating hormone (FSH) levels or the expression of its receptors in the testes, suggesting that its reproductive effects are due to central HPG axis dysregulation rather than local testicular dysfunction.\n\nOverall, MC-LR’s actions appear to involve disruption of GnRH signaling—a potential \"GnRH toxin\"—thereby impairing male reproductive function. These endocrine disruptions are associated with reduced spermatogenesis and compromised fertility in exposed male mice. The findings support the notion that cyanotoxins can exert reproductive toxicity not through direct cytotoxicity of the testes, but by damaging the regulatory pathways governing the HPG axis, ultimately affecting testosterone synthesis and male reproductive health.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 343,
+          "end": 463,
+          "text": "MC-LR administration reduces serum luteinizing hormone (LH) and testosterone levels in a dose- and time-dependent manner"
+        }
+      ]
+    },
+    {
+      "paper_id": "64890",
+      "claim_id": "64890:claim_2",
+      "claim": "Microcystin-LR does not directly affect the viability or testosterone production of Leydig cells in vitro, suggesting its effects on testosterone synthesis are mediated through upstream mechanisms.",
+      "paragraph_id": "64890:answer_3",
+      "paragraph": "**Summary: Cyanotoxins Disrupt the Hypothalamic-Pituitary-Gonadal Axis in Male Mice—Endocrine Disruption and Reproductive Toxicity**\n\nCyanotoxin exposure, notably microcystin-LR (MC-LR), significantly disrupts the hypothalamic-pituitary-gonadal (HPG) axis in male mice through endocrine disruption mechanisms. In vivo studies demonstrate that MC-LR administration reduces serum luteinizing hormone (LH) and testosterone levels in a dose- and time-dependent manner, indicating primary suppression at the hypothalamic and pituitary levels. Notably, MC-LR does not directly impair the viability or immediate testosterone production of individual Leydig cells in vitro; thus, its reproductive toxicity in male mice results from upstream HPG axis suppression rather than direct testicular cell toxicity.\n\nFurther evidence shows that MC-LR inhibits the synthesis of gonadotropin-releasing hormone (GnRH) in the hypothalamus, leading to decreased LH secretion by the pituitary and ultimately reduced testosterone production in the testes. Additionally, MC-LR does not significantly alter follicle-stimulating hormone (FSH) levels or the expression of its receptors in the testes, suggesting that its reproductive effects are due to central HPG axis dysregulation rather than local testicular dysfunction.\n\nOverall, MC-LR’s actions appear to involve disruption of GnRH signaling—a potential \"GnRH toxin\"—thereby impairing male reproductive function. These endocrine disruptions are associated with reduced spermatogenesis and compromised fertility in exposed male mice. The findings support the notion that cyanotoxins can exert reproductive toxicity not through direct cytotoxicity of the testes, but by damaging the regulatory pathways governing the HPG axis, ultimately affecting testosterone synthesis and male reproductive health.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 547,
+          "end": 798,
+          "text": "MC-LR does not directly impair the viability or immediate testosterone production of individual Leydig cells in vitro; thus, its reproductive toxicity in male mice results from upstream HPG axis suppression rather than direct testicular cell toxicity."
+        }
+      ]
+    },
+    {
+      "paper_id": "64890",
+      "claim_id": "64890:claim_3",
+      "claim": "Microcystin-LR reduces gonadotropin-releasing hormone (GnRH) expression in the hypothalamus, leading to decreased luteinizing hormone synthesis in the pituitary and subsequent suppression of testosterone production in the testes.",
+      "paragraph_id": "64890:answer_3",
+      "paragraph": "**Summary: Cyanotoxins Disrupt the Hypothalamic-Pituitary-Gonadal Axis in Male Mice—Endocrine Disruption and Reproductive Toxicity**\n\nCyanotoxin exposure, notably microcystin-LR (MC-LR), significantly disrupts the hypothalamic-pituitary-gonadal (HPG) axis in male mice through endocrine disruption mechanisms. In vivo studies demonstrate that MC-LR administration reduces serum luteinizing hormone (LH) and testosterone levels in a dose- and time-dependent manner, indicating primary suppression at the hypothalamic and pituitary levels. Notably, MC-LR does not directly impair the viability or immediate testosterone production of individual Leydig cells in vitro; thus, its reproductive toxicity in male mice results from upstream HPG axis suppression rather than direct testicular cell toxicity.\n\nFurther evidence shows that MC-LR inhibits the synthesis of gonadotropin-releasing hormone (GnRH) in the hypothalamus, leading to decreased LH secretion by the pituitary and ultimately reduced testosterone production in the testes. Additionally, MC-LR does not significantly alter follicle-stimulating hormone (FSH) levels or the expression of its receptors in the testes, suggesting that its reproductive effects are due to central HPG axis dysregulation rather than local testicular dysfunction.\n\nOverall, MC-LR’s actions appear to involve disruption of GnRH signaling—a potential \"GnRH toxin\"—thereby impairing male reproductive function. These endocrine disruptions are associated with reduced spermatogenesis and compromised fertility in exposed male mice. The findings support the notion that cyanotoxins can exert reproductive toxicity not through direct cytotoxicity of the testes, but by damaging the regulatory pathways governing the HPG axis, ultimately affecting testosterone synthesis and male reproductive health.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 828,
+          "end": 1031,
+          "text": "MC-LR inhibits the synthesis of gonadotropin-releasing hormone (GnRH) in the hypothalamus, leading to decreased LH secretion by the pituitary and ultimately reduced testosterone production in the testes."
+        }
+      ]
+    },
+    {
+      "paper_id": "64890",
+      "claim_id": "64890:claim_4",
+      "claim": "Microcystin-LR does not alter follicle-stimulating hormone levels or the expression of follicle-stimulating hormone receptor and luteinizing hormone receptor in the testes of male mice.",
+      "paragraph_id": "64890:answer_3",
+      "paragraph": "**Summary: Cyanotoxins Disrupt the Hypothalamic-Pituitary-Gonadal Axis in Male Mice—Endocrine Disruption and Reproductive Toxicity**\n\nCyanotoxin exposure, notably microcystin-LR (MC-LR), significantly disrupts the hypothalamic-pituitary-gonadal (HPG) axis in male mice through endocrine disruption mechanisms. In vivo studies demonstrate that MC-LR administration reduces serum luteinizing hormone (LH) and testosterone levels in a dose- and time-dependent manner, indicating primary suppression at the hypothalamic and pituitary levels. Notably, MC-LR does not directly impair the viability or immediate testosterone production of individual Leydig cells in vitro; thus, its reproductive toxicity in male mice results from upstream HPG axis suppression rather than direct testicular cell toxicity.\n\nFurther evidence shows that MC-LR inhibits the synthesis of gonadotropin-releasing hormone (GnRH) in the hypothalamus, leading to decreased LH secretion by the pituitary and ultimately reduced testosterone production in the testes. Additionally, MC-LR does not significantly alter follicle-stimulating hormone (FSH) levels or the expression of its receptors in the testes, suggesting that its reproductive effects are due to central HPG axis dysregulation rather than local testicular dysfunction.\n\nOverall, MC-LR’s actions appear to involve disruption of GnRH signaling—a potential \"GnRH toxin\"—thereby impairing male reproductive function. These endocrine disruptions are associated with reduced spermatogenesis and compromised fertility in exposed male mice. The findings support the notion that cyanotoxins can exert reproductive toxicity not through direct cytotoxicity of the testes, but by damaging the regulatory pathways governing the HPG axis, ultimately affecting testosterone synthesis and male reproductive health.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1046,
+          "end": 1171,
+          "text": "MC-LR does not significantly alter follicle-stimulating hormone (FSH) levels or the expression of its receptors in the testes"
+        }
+      ]
+    },
+    {
+      "paper_id": "64890",
+      "claim_id": "64890:claim_5",
+      "claim": "Microcystin-LR may act as a GnRH toxin, disrupting the hypothalamic-pituitary-gonadal axis and impairing reproductive function in male mice.",
+      "paragraph_id": "64890:answer_3",
+      "paragraph": "**Summary: Cyanotoxins Disrupt the Hypothalamic-Pituitary-Gonadal Axis in Male Mice—Endocrine Disruption and Reproductive Toxicity**\n\nCyanotoxin exposure, notably microcystin-LR (MC-LR), significantly disrupts the hypothalamic-pituitary-gonadal (HPG) axis in male mice through endocrine disruption mechanisms. In vivo studies demonstrate that MC-LR administration reduces serum luteinizing hormone (LH) and testosterone levels in a dose- and time-dependent manner, indicating primary suppression at the hypothalamic and pituitary levels. Notably, MC-LR does not directly impair the viability or immediate testosterone production of individual Leydig cells in vitro; thus, its reproductive toxicity in male mice results from upstream HPG axis suppression rather than direct testicular cell toxicity.\n\nFurther evidence shows that MC-LR inhibits the synthesis of gonadotropin-releasing hormone (GnRH) in the hypothalamus, leading to decreased LH secretion by the pituitary and ultimately reduced testosterone production in the testes. Additionally, MC-LR does not significantly alter follicle-stimulating hormone (FSH) levels or the expression of its receptors in the testes, suggesting that its reproductive effects are due to central HPG axis dysregulation rather than local testicular dysfunction.\n\nOverall, MC-LR’s actions appear to involve disruption of GnRH signaling—a potential \"GnRH toxin\"—thereby impairing male reproductive function. These endocrine disruptions are associated with reduced spermatogenesis and compromised fertility in exposed male mice. The findings support the notion that cyanotoxins can exert reproductive toxicity not through direct cytotoxicity of the testes, but by damaging the regulatory pathways governing the HPG axis, ultimately affecting testosterone synthesis and male reproductive health.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1308,
+          "end": 1441,
+          "text": "MC-LR’s actions appear to involve disruption of GnRH signaling—a potential \"GnRH toxin\"—thereby impairing male reproductive function."
+        }
+      ]
+    },
+    {
+      "paper_id": "65716",
+      "claim_id": "65716:claim_1",
+      "claim": "Ureido-substituted benzene sulfonamides selectively inhibit carbonic anhydrase IX activity over carbonic anhydrase XII activity in breast cancer cells, with specific residues in the active site driving isoform-specific interactions.",
+      "paragraph_id": "65716:answer_4",
+      "paragraph": "**Selective Inhibition of Carbonic Anhydrase IX and XII in Breast Cancer Cells Using Benzene Sulfonamides: A Disconnect between Activity and Growth Inhibition**\n\nCarbonic anhydrase IX (CA IX) and XII (CA XII) are tumor-associated enzymes overexpressed in various cancers, including breast cancer. Benzene sulfonamides have been developed as selective inhibitors of CA IX and XII, with potential applications in cancer treatment. However, recent studies have revealed a disconnect between the activity of these inhibitors and their growth-inhibitory effects in breast cancer cells.\n\n**Key Findings:**\n\n1. **Selective inhibition**: Ureido-substituted benzene sulfonamides selectively inhibit CA IX activity over CA XII activity in breast cancer cells, with specific residues in the active site driving isoform-specific interactions.\n2. **Disconnect between activity and growth inhibition**: The efficacy of ureido-substituted benzene sulfonamides in inhibiting CA IX and XII activity in cells is significantly lower than their efficacy in inhibiting the activity of purified recombinant proteins, suggesting a disconnect between in vitro and in vivo conditions.\n3. **Growth-inhibitory effects**: Ureido-substituted benzene sulfonamides inhibit breast cancer cell growth at concentrations significantly higher than those required to inhibit CA IX and XII activity, indicating that their growth-inhibitory effects may not solely depend on CA activity.\n4. **Off-target effects**: Breast cancer cells lacking CA IX or XII expression remain sensitive to ureido-substituted benzene sulfonamides, suggesting potential off-target effects of these inhibitors on cell growth.\n5. **Structural differences**: The structural differences in the active sites of CA IX and XII, particularly at residue 131, contribute to the selective binding and inhibition by ureido-substituted benzene sulfonamides.\n\n**Implications:**\n\n1. **Development of novel inhibitors**: The discovery of benzene sulfonamides as selective inhibitors of CA IX and XII has opened up new avenues for the development of novel anticancer agents.\n2. **Targeting tumor-associated enzymes**: The selective inhibition of CA IX and XII by benzene sulfonamides represents a promising strategy for targeting tumor-associated enzymes in cancer treatment.\n3. **Understanding the disconnect between activity and growth inhibition**: Further studies are needed to understand the disconnect between the activity of benzene sulfonamides and their growth-inhibitory effects, which may provide insights into the development of more effective anticancer agents.\n\n**Future Directions:**\n\n1. **Optimization of benzene sulfonamide inhibitors**: Further optimization of benzene sulfonamide inhibitors is needed to improve their efficacy and selectivity for CA IX and XII.\n2. **Understanding the mechanisms of action**: Elucidating the mechanisms of action of benzene sulfonamides, including their off-target effects, is essential for the development of more effective anticancer agents.\n3. **Clinical trials**: The development of benzene sulfonamide inhibitors as anticancer agents requires further preclinical and clinical evaluation to assess their safety and efficacy in humans.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 630,
+          "end": 830,
+          "text": "Ureido-substituted benzene sulfonamides selectively inhibit CA IX activity over CA XII activity in breast cancer cells, with specific residues in the active site driving isoform-specific interactions."
+        }
+      ]
+    },
+    {
+      "paper_id": "65716",
+      "claim_id": "65716:claim_2",
+      "claim": "The efficacy of ureido-substituted benzene sulfonamides in inhibiting carbonic anhydrase IX and XII activity in cells is significantly lower than their efficacy in inhibiting the activity of purified recombinant proteins, suggesting a disconnect between in vitro and in vivo conditions.",
+      "paragraph_id": "65716:answer_4",
+      "paragraph": "**Selective Inhibition of Carbonic Anhydrase IX and XII in Breast Cancer Cells Using Benzene Sulfonamides: A Disconnect between Activity and Growth Inhibition**\n\nCarbonic anhydrase IX (CA IX) and XII (CA XII) are tumor-associated enzymes overexpressed in various cancers, including breast cancer. Benzene sulfonamides have been developed as selective inhibitors of CA IX and XII, with potential applications in cancer treatment. However, recent studies have revealed a disconnect between the activity of these inhibitors and their growth-inhibitory effects in breast cancer cells.\n\n**Key Findings:**\n\n1. **Selective inhibition**: Ureido-substituted benzene sulfonamides selectively inhibit CA IX activity over CA XII activity in breast cancer cells, with specific residues in the active site driving isoform-specific interactions.\n2. **Disconnect between activity and growth inhibition**: The efficacy of ureido-substituted benzene sulfonamides in inhibiting CA IX and XII activity in cells is significantly lower than their efficacy in inhibiting the activity of purified recombinant proteins, suggesting a disconnect between in vitro and in vivo conditions.\n3. **Growth-inhibitory effects**: Ureido-substituted benzene sulfonamides inhibit breast cancer cell growth at concentrations significantly higher than those required to inhibit CA IX and XII activity, indicating that their growth-inhibitory effects may not solely depend on CA activity.\n4. **Off-target effects**: Breast cancer cells lacking CA IX or XII expression remain sensitive to ureido-substituted benzene sulfonamides, suggesting potential off-target effects of these inhibitors on cell growth.\n5. **Structural differences**: The structural differences in the active sites of CA IX and XII, particularly at residue 131, contribute to the selective binding and inhibition by ureido-substituted benzene sulfonamides.\n\n**Implications:**\n\n1. **Development of novel inhibitors**: The discovery of benzene sulfonamides as selective inhibitors of CA IX and XII has opened up new avenues for the development of novel anticancer agents.\n2. **Targeting tumor-associated enzymes**: The selective inhibition of CA IX and XII by benzene sulfonamides represents a promising strategy for targeting tumor-associated enzymes in cancer treatment.\n3. **Understanding the disconnect between activity and growth inhibition**: Further studies are needed to understand the disconnect between the activity of benzene sulfonamides and their growth-inhibitory effects, which may provide insights into the development of more effective anticancer agents.\n\n**Future Directions:**\n\n1. **Optimization of benzene sulfonamide inhibitors**: Further optimization of benzene sulfonamide inhibitors is needed to improve their efficacy and selectivity for CA IX and XII.\n2. **Understanding the mechanisms of action**: Elucidating the mechanisms of action of benzene sulfonamides, including their off-target effects, is essential for the development of more effective anticancer agents.\n3. **Clinical trials**: The development of benzene sulfonamide inhibitors as anticancer agents requires further preclinical and clinical evaluation to assess their safety and efficacy in humans.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 889,
+          "end": 1159,
+          "text": "The efficacy of ureido-substituted benzene sulfonamides in inhibiting CA IX and XII activity in cells is significantly lower than their efficacy in inhibiting the activity of purified recombinant proteins, suggesting a disconnect between in vitro and in vivo conditions."
+        }
+      ]
+    },
+    {
+      "paper_id": "65716",
+      "claim_id": "65716:claim_3",
+      "claim": "Ureido-substituted benzene sulfonamides inhibit breast cancer cell growth at concentrations significantly higher than those required to inhibit carbonic anhydrase IX and XII activity, indicating that their growth-inhibitory effects may not solely depend on carbonic anhydrase activity.",
+      "paragraph_id": "65716:answer_4",
+      "paragraph": "**Selective Inhibition of Carbonic Anhydrase IX and XII in Breast Cancer Cells Using Benzene Sulfonamides: A Disconnect between Activity and Growth Inhibition**\n\nCarbonic anhydrase IX (CA IX) and XII (CA XII) are tumor-associated enzymes overexpressed in various cancers, including breast cancer. Benzene sulfonamides have been developed as selective inhibitors of CA IX and XII, with potential applications in cancer treatment. However, recent studies have revealed a disconnect between the activity of these inhibitors and their growth-inhibitory effects in breast cancer cells.\n\n**Key Findings:**\n\n1. **Selective inhibition**: Ureido-substituted benzene sulfonamides selectively inhibit CA IX activity over CA XII activity in breast cancer cells, with specific residues in the active site driving isoform-specific interactions.\n2. **Disconnect between activity and growth inhibition**: The efficacy of ureido-substituted benzene sulfonamides in inhibiting CA IX and XII activity in cells is significantly lower than their efficacy in inhibiting the activity of purified recombinant proteins, suggesting a disconnect between in vitro and in vivo conditions.\n3. **Growth-inhibitory effects**: Ureido-substituted benzene sulfonamides inhibit breast cancer cell growth at concentrations significantly higher than those required to inhibit CA IX and XII activity, indicating that their growth-inhibitory effects may not solely depend on CA activity.\n4. **Off-target effects**: Breast cancer cells lacking CA IX or XII expression remain sensitive to ureido-substituted benzene sulfonamides, suggesting potential off-target effects of these inhibitors on cell growth.\n5. **Structural differences**: The structural differences in the active sites of CA IX and XII, particularly at residue 131, contribute to the selective binding and inhibition by ureido-substituted benzene sulfonamides.\n\n**Implications:**\n\n1. **Development of novel inhibitors**: The discovery of benzene sulfonamides as selective inhibitors of CA IX and XII has opened up new avenues for the development of novel anticancer agents.\n2. **Targeting tumor-associated enzymes**: The selective inhibition of CA IX and XII by benzene sulfonamides represents a promising strategy for targeting tumor-associated enzymes in cancer treatment.\n3. **Understanding the disconnect between activity and growth inhibition**: Further studies are needed to understand the disconnect between the activity of benzene sulfonamides and their growth-inhibitory effects, which may provide insights into the development of more effective anticancer agents.\n\n**Future Directions:**\n\n1. **Optimization of benzene sulfonamide inhibitors**: Further optimization of benzene sulfonamide inhibitors is needed to improve their efficacy and selectivity for CA IX and XII.\n2. **Understanding the mechanisms of action**: Elucidating the mechanisms of action of benzene sulfonamides, including their off-target effects, is essential for the development of more effective anticancer agents.\n3. **Clinical trials**: The development of benzene sulfonamide inhibitors as anticancer agents requires further preclinical and clinical evaluation to assess their safety and efficacy in humans.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1194,
+          "end": 1447,
+          "text": "Ureido-substituted benzene sulfonamides inhibit breast cancer cell growth at concentrations significantly higher than those required to inhibit CA IX and XII activity, indicating that their growth-inhibitory effects may not solely depend on CA activity."
+        }
+      ]
+    },
+    {
+      "paper_id": "65716",
+      "claim_id": "65716:claim_4",
+      "claim": "Breast cancer cells lacking carbonic anhydrase IX or XII expression remain sensitive to ureido-substituted benzene sulfonamides, suggesting potential off-target effects of these inhibitors on cell growth.",
+      "paragraph_id": "65716:answer_4",
+      "paragraph": "**Selective Inhibition of Carbonic Anhydrase IX and XII in Breast Cancer Cells Using Benzene Sulfonamides: A Disconnect between Activity and Growth Inhibition**\n\nCarbonic anhydrase IX (CA IX) and XII (CA XII) are tumor-associated enzymes overexpressed in various cancers, including breast cancer. Benzene sulfonamides have been developed as selective inhibitors of CA IX and XII, with potential applications in cancer treatment. However, recent studies have revealed a disconnect between the activity of these inhibitors and their growth-inhibitory effects in breast cancer cells.\n\n**Key Findings:**\n\n1. **Selective inhibition**: Ureido-substituted benzene sulfonamides selectively inhibit CA IX activity over CA XII activity in breast cancer cells, with specific residues in the active site driving isoform-specific interactions.\n2. **Disconnect between activity and growth inhibition**: The efficacy of ureido-substituted benzene sulfonamides in inhibiting CA IX and XII activity in cells is significantly lower than their efficacy in inhibiting the activity of purified recombinant proteins, suggesting a disconnect between in vitro and in vivo conditions.\n3. **Growth-inhibitory effects**: Ureido-substituted benzene sulfonamides inhibit breast cancer cell growth at concentrations significantly higher than those required to inhibit CA IX and XII activity, indicating that their growth-inhibitory effects may not solely depend on CA activity.\n4. **Off-target effects**: Breast cancer cells lacking CA IX or XII expression remain sensitive to ureido-substituted benzene sulfonamides, suggesting potential off-target effects of these inhibitors on cell growth.\n5. **Structural differences**: The structural differences in the active sites of CA IX and XII, particularly at residue 131, contribute to the selective binding and inhibition by ureido-substituted benzene sulfonamides.\n\n**Implications:**\n\n1. **Development of novel inhibitors**: The discovery of benzene sulfonamides as selective inhibitors of CA IX and XII has opened up new avenues for the development of novel anticancer agents.\n2. **Targeting tumor-associated enzymes**: The selective inhibition of CA IX and XII by benzene sulfonamides represents a promising strategy for targeting tumor-associated enzymes in cancer treatment.\n3. **Understanding the disconnect between activity and growth inhibition**: Further studies are needed to understand the disconnect between the activity of benzene sulfonamides and their growth-inhibitory effects, which may provide insights into the development of more effective anticancer agents.\n\n**Future Directions:**\n\n1. **Optimization of benzene sulfonamide inhibitors**: Further optimization of benzene sulfonamide inhibitors is needed to improve their efficacy and selectivity for CA IX and XII.\n2. **Understanding the mechanisms of action**: Elucidating the mechanisms of action of benzene sulfonamides, including their off-target effects, is essential for the development of more effective anticancer agents.\n3. **Clinical trials**: The development of benzene sulfonamide inhibitors as anticancer agents requires further preclinical and clinical evaluation to assess their safety and efficacy in humans.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1475,
+          "end": 1663,
+          "text": "Breast cancer cells lacking CA IX or XII expression remain sensitive to ureido-substituted benzene sulfonamides, suggesting potential off-target effects of these inhibitors on cell growth."
+        }
+      ]
+    },
+    {
+      "paper_id": "65716",
+      "claim_id": "65716:claim_5",
+      "claim": "The structural differences in the active sites of carbonic anhydrase IX and XII, particularly at residue 131, contribute to the selective binding and inhibition by ureido-substituted benzene sulfonamides.",
+      "paragraph_id": "65716:answer_4",
+      "paragraph": "**Selective Inhibition of Carbonic Anhydrase IX and XII in Breast Cancer Cells Using Benzene Sulfonamides: A Disconnect between Activity and Growth Inhibition**\n\nCarbonic anhydrase IX (CA IX) and XII (CA XII) are tumor-associated enzymes overexpressed in various cancers, including breast cancer. Benzene sulfonamides have been developed as selective inhibitors of CA IX and XII, with potential applications in cancer treatment. However, recent studies have revealed a disconnect between the activity of these inhibitors and their growth-inhibitory effects in breast cancer cells.\n\n**Key Findings:**\n\n1. **Selective inhibition**: Ureido-substituted benzene sulfonamides selectively inhibit CA IX activity over CA XII activity in breast cancer cells, with specific residues in the active site driving isoform-specific interactions.\n2. **Disconnect between activity and growth inhibition**: The efficacy of ureido-substituted benzene sulfonamides in inhibiting CA IX and XII activity in cells is significantly lower than their efficacy in inhibiting the activity of purified recombinant proteins, suggesting a disconnect between in vitro and in vivo conditions.\n3. **Growth-inhibitory effects**: Ureido-substituted benzene sulfonamides inhibit breast cancer cell growth at concentrations significantly higher than those required to inhibit CA IX and XII activity, indicating that their growth-inhibitory effects may not solely depend on CA activity.\n4. **Off-target effects**: Breast cancer cells lacking CA IX or XII expression remain sensitive to ureido-substituted benzene sulfonamides, suggesting potential off-target effects of these inhibitors on cell growth.\n5. **Structural differences**: The structural differences in the active sites of CA IX and XII, particularly at residue 131, contribute to the selective binding and inhibition by ureido-substituted benzene sulfonamides.\n\n**Implications:**\n\n1. **Development of novel inhibitors**: The discovery of benzene sulfonamides as selective inhibitors of CA IX and XII has opened up new avenues for the development of novel anticancer agents.\n2. **Targeting tumor-associated enzymes**: The selective inhibition of CA IX and XII by benzene sulfonamides represents a promising strategy for targeting tumor-associated enzymes in cancer treatment.\n3. **Understanding the disconnect between activity and growth inhibition**: Further studies are needed to understand the disconnect between the activity of benzene sulfonamides and their growth-inhibitory effects, which may provide insights into the development of more effective anticancer agents.\n\n**Future Directions:**\n\n1. **Optimization of benzene sulfonamide inhibitors**: Further optimization of benzene sulfonamide inhibitors is needed to improve their efficacy and selectivity for CA IX and XII.\n2. **Understanding the mechanisms of action**: Elucidating the mechanisms of action of benzene sulfonamides, including their off-target effects, is essential for the development of more effective anticancer agents.\n3. **Clinical trials**: The development of benzene sulfonamide inhibitors as anticancer agents requires further preclinical and clinical evaluation to assess their safety and efficacy in humans.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1695,
+          "end": 1883,
+          "text": "The structural differences in the active sites of CA IX and XII, particularly at residue 131, contribute to the selective binding and inhibition by ureido-substituted benzene sulfonamides."
+        }
+      ]
+    },
+    {
+      "paper_id": "66222",
+      "claim_id": "66222:claim_1",
+      "claim": "Suppression of MMP-2 in glioma xenograft cells inhibits TNF-α-induced NF-κB activation by reducing TRADD-TRAF2 interactions and leads to Fas-mediated JNK activation and apoptosis.",
+      "paragraph_id": "66222:answer_3",
+      "paragraph": "**Summary: Role of MMP-2 Suppression in TNF-α-Mediated NF-κB and JNK Signaling, Leading to Apoptosis in Glioma Cells**\n\nMultiple studies highlight the significance of matrix metalloproteinase-2 (MMP-2) in the inflammatory signaling and survival pathways of glioma cells, particularly in response to tumor necrosis factor-alpha (TNF-α). Elevated MMP-2 expression is commonly associated with aggressive tumor behavior and inflammatory processes. Suppression of MMP-2 in glioma cells has been demonstrated to attenuate TNF-α-induced activation of the NF-κB signaling pathway by reducing key adaptor molecules, TRADD and TRAF2, within the TNFR1 complex. This reduction in TRADD-TRAF2 interaction decreases the activation of the inhibitor of kappa B (IκB) kinase (IKK), leading to stabilized IκB and impaired nuclear translocation of NF-κB p65. Consequently, suppression of MMP-2 results in decreased nuclear NF-κB activity and attenuated expression of pro-inflammatory genes and pro-survival proteins regulated by NF-κB.\n\nCrucially, MMP-2 inhibition also affects non-NF-κB signaling branches. It was found that suppressing MMP-2 triggers activation of the c-Jun N-terminal kinase (JNK) pathway. Unlike p38 MAPK, JNK activation is essential for apoptosis induction in this context. Mechanistically, this JNK activation is linked to apoptosis via Fas-mediated pathways (including upregulation of Fas ligand and Fadd), culminating in caspase-dependent cell death. Inhibition of JNK reverses the apoptosis-promoting effect of MMP-2 suppression, indicating a causal role for JNK in the cytotoxic response. The apoptosis can be partly mitigated by NF-κB reactivation when constitutive suppressors of MMP-2 are present, suggesting cross-talk between these pathways.\n\nThese findings are supported by in vitro models where reducing MMP-2 sensitizes glioma cells to TNF-α-induced death and inhibits tumor growth in xenograft models. The effects observed are mechanistically linked to both NF-κB and JNK pathways, with evidence that JNK plays a pivotal pro-apoptotic role independent of NF-κB. Overall, targeting MMP-2 presents a promising strategy to block TNF-α-driven survival signals and provoke apoptotic cell death in glioma, potentially offering a new avenue for therapeutic intervention in glioma therapy.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 444,
+          "end": 839,
+          "text": "Suppression of MMP-2 in glioma cells has been demonstrated to attenuate TNF-α-induced activation of the NF-κB signaling pathway by reducing key adaptor molecules, TRADD and TRAF2, within the TNFR1 complex. This reduction in TRADD-TRAF2 interaction decreases the activation of the inhibitor of kappa B (IκB) kinase (IKK), leading to stabilized IκB and impaired nuclear translocation of NF-κB p65."
+        },
+        {
+          "start": 1277,
+          "end": 1456,
+          "text": "Mechanistically, this JNK activation is linked to apoptosis via Fas-mediated pathways (including upregulation of Fas ligand and Fadd), culminating in caspase-dependent cell death."
+        }
+      ]
+    },
+    {
+      "paper_id": "66222",
+      "claim_id": "66222:claim_2",
+      "claim": "MMP-2 downregulation decreases TNF-α, TNFR1, TRADD, TRAF2, and RIP expression levels, while increasing Fas, Fas-L, and FADD expression, resulting in caspase-dependent apoptotic cell death in glioma cells.",
+      "paragraph_id": "66222:answer_3",
+      "paragraph": "**Summary: Role of MMP-2 Suppression in TNF-α-Mediated NF-κB and JNK Signaling, Leading to Apoptosis in Glioma Cells**\n\nMultiple studies highlight the significance of matrix metalloproteinase-2 (MMP-2) in the inflammatory signaling and survival pathways of glioma cells, particularly in response to tumor necrosis factor-alpha (TNF-α). Elevated MMP-2 expression is commonly associated with aggressive tumor behavior and inflammatory processes. Suppression of MMP-2 in glioma cells has been demonstrated to attenuate TNF-α-induced activation of the NF-κB signaling pathway by reducing key adaptor molecules, TRADD and TRAF2, within the TNFR1 complex. This reduction in TRADD-TRAF2 interaction decreases the activation of the inhibitor of kappa B (IκB) kinase (IKK), leading to stabilized IκB and impaired nuclear translocation of NF-κB p65. Consequently, suppression of MMP-2 results in decreased nuclear NF-κB activity and attenuated expression of pro-inflammatory genes and pro-survival proteins regulated by NF-κB.\n\nCrucially, MMP-2 inhibition also affects non-NF-κB signaling branches. It was found that suppressing MMP-2 triggers activation of the c-Jun N-terminal kinase (JNK) pathway. Unlike p38 MAPK, JNK activation is essential for apoptosis induction in this context. Mechanistically, this JNK activation is linked to apoptosis via Fas-mediated pathways (including upregulation of Fas ligand and Fadd), culminating in caspase-dependent cell death. Inhibition of JNK reverses the apoptosis-promoting effect of MMP-2 suppression, indicating a causal role for JNK in the cytotoxic response. The apoptosis can be partly mitigated by NF-κB reactivation when constitutive suppressors of MMP-2 are present, suggesting cross-talk between these pathways.\n\nThese findings are supported by in vitro models where reducing MMP-2 sensitizes glioma cells to TNF-α-induced death and inhibits tumor growth in xenograft models. The effects observed are mechanistically linked to both NF-κB and JNK pathways, with evidence that JNK plays a pivotal pro-apoptotic role independent of NF-κB. Overall, targeting MMP-2 presents a promising strategy to block TNF-α-driven survival signals and provoke apoptotic cell death in glioma, potentially offering a new avenue for therapeutic intervention in glioma therapy.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1277,
+          "end": 1456,
+          "text": "Mechanistically, this JNK activation is linked to apoptosis via Fas-mediated pathways (including upregulation of Fas ligand and Fadd), culminating in caspase-dependent cell death."
+        }
+      ]
+    },
+    {
+      "paper_id": "66222",
+      "claim_id": "66222:claim_3",
+      "claim": "JNK activation, but not p38 MAPK activation, plays a critical role in MMP-2 suppression-induced apoptosis in glioma cells, as evidenced by the reversal of apoptosis upon JNK inhibition.",
+      "paragraph_id": "66222:answer_3",
+      "paragraph": "**Summary: Role of MMP-2 Suppression in TNF-α-Mediated NF-κB and JNK Signaling, Leading to Apoptosis in Glioma Cells**\n\nMultiple studies highlight the significance of matrix metalloproteinase-2 (MMP-2) in the inflammatory signaling and survival pathways of glioma cells, particularly in response to tumor necrosis factor-alpha (TNF-α). Elevated MMP-2 expression is commonly associated with aggressive tumor behavior and inflammatory processes. Suppression of MMP-2 in glioma cells has been demonstrated to attenuate TNF-α-induced activation of the NF-κB signaling pathway by reducing key adaptor molecules, TRADD and TRAF2, within the TNFR1 complex. This reduction in TRADD-TRAF2 interaction decreases the activation of the inhibitor of kappa B (IκB) kinase (IKK), leading to stabilized IκB and impaired nuclear translocation of NF-κB p65. Consequently, suppression of MMP-2 results in decreased nuclear NF-κB activity and attenuated expression of pro-inflammatory genes and pro-survival proteins regulated by NF-κB.\n\nCrucially, MMP-2 inhibition also affects non-NF-κB signaling branches. It was found that suppressing MMP-2 triggers activation of the c-Jun N-terminal kinase (JNK) pathway. Unlike p38 MAPK, JNK activation is essential for apoptosis induction in this context. Mechanistically, this JNK activation is linked to apoptosis via Fas-mediated pathways (including upregulation of Fas ligand and Fadd), culminating in caspase-dependent cell death. Inhibition of JNK reverses the apoptosis-promoting effect of MMP-2 suppression, indicating a causal role for JNK in the cytotoxic response. The apoptosis can be partly mitigated by NF-κB reactivation when constitutive suppressors of MMP-2 are present, suggesting cross-talk between these pathways.\n\nThese findings are supported by in vitro models where reducing MMP-2 sensitizes glioma cells to TNF-α-induced death and inhibits tumor growth in xenograft models. The effects observed are mechanistically linked to both NF-κB and JNK pathways, with evidence that JNK plays a pivotal pro-apoptotic role independent of NF-κB. Overall, targeting MMP-2 presents a promising strategy to block TNF-α-driven survival signals and provoke apoptotic cell death in glioma, potentially offering a new avenue for therapeutic intervention in glioma therapy.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1191,
+          "end": 1276,
+          "text": "Unlike p38 MAPK, JNK activation is essential for apoptosis induction in this context."
+        },
+        {
+          "start": 1457,
+          "end": 1535,
+          "text": "Inhibition of JNK reverses the apoptosis-promoting effect of MMP-2 suppression"
+        }
+      ]
+    },
+    {
+      "paper_id": "66222",
+      "claim_id": "66222:claim_4",
+      "claim": "Recombinant human MMP-2 supplementation reverses MMP-2 suppression-induced apoptosis by restoring NF-κB activation and reducing Fas-mediated JNK activation.",
+      "paragraph_id": "66222:answer_3",
+      "paragraph": "**Summary: Role of MMP-2 Suppression in TNF-α-Mediated NF-κB and JNK Signaling, Leading to Apoptosis in Glioma Cells**\n\nMultiple studies highlight the significance of matrix metalloproteinase-2 (MMP-2) in the inflammatory signaling and survival pathways of glioma cells, particularly in response to tumor necrosis factor-alpha (TNF-α). Elevated MMP-2 expression is commonly associated with aggressive tumor behavior and inflammatory processes. Suppression of MMP-2 in glioma cells has been demonstrated to attenuate TNF-α-induced activation of the NF-κB signaling pathway by reducing key adaptor molecules, TRADD and TRAF2, within the TNFR1 complex. This reduction in TRADD-TRAF2 interaction decreases the activation of the inhibitor of kappa B (IκB) kinase (IKK), leading to stabilized IκB and impaired nuclear translocation of NF-κB p65. Consequently, suppression of MMP-2 results in decreased nuclear NF-κB activity and attenuated expression of pro-inflammatory genes and pro-survival proteins regulated by NF-κB.\n\nCrucially, MMP-2 inhibition also affects non-NF-κB signaling branches. It was found that suppressing MMP-2 triggers activation of the c-Jun N-terminal kinase (JNK) pathway. Unlike p38 MAPK, JNK activation is essential for apoptosis induction in this context. Mechanistically, this JNK activation is linked to apoptosis via Fas-mediated pathways (including upregulation of Fas ligand and Fadd), culminating in caspase-dependent cell death. Inhibition of JNK reverses the apoptosis-promoting effect of MMP-2 suppression, indicating a causal role for JNK in the cytotoxic response. The apoptosis can be partly mitigated by NF-κB reactivation when constitutive suppressors of MMP-2 are present, suggesting cross-talk between these pathways.\n\nThese findings are supported by in vitro models where reducing MMP-2 sensitizes glioma cells to TNF-α-induced death and inhibits tumor growth in xenograft models. The effects observed are mechanistically linked to both NF-κB and JNK pathways, with evidence that JNK plays a pivotal pro-apoptotic role independent of NF-κB. Overall, targeting MMP-2 presents a promising strategy to block TNF-α-driven survival signals and provoke apoptotic cell death in glioma, potentially offering a new avenue for therapeutic intervention in glioma therapy.",
+      "used": 0,
+      "spans": []
+    },
+    {
+      "paper_id": "66222",
+      "claim_id": "66222:claim_5",
+      "claim": "In vivo suppression of MMP-2 reduces intracranial tumor growth in glioma xenograft models, correlating with decreased NF-κB activation, increased JNK activation, and enhanced apoptosis.",
+      "paragraph_id": "66222:answer_3",
+      "paragraph": "**Summary: Role of MMP-2 Suppression in TNF-α-Mediated NF-κB and JNK Signaling, Leading to Apoptosis in Glioma Cells**\n\nMultiple studies highlight the significance of matrix metalloproteinase-2 (MMP-2) in the inflammatory signaling and survival pathways of glioma cells, particularly in response to tumor necrosis factor-alpha (TNF-α). Elevated MMP-2 expression is commonly associated with aggressive tumor behavior and inflammatory processes. Suppression of MMP-2 in glioma cells has been demonstrated to attenuate TNF-α-induced activation of the NF-κB signaling pathway by reducing key adaptor molecules, TRADD and TRAF2, within the TNFR1 complex. This reduction in TRADD-TRAF2 interaction decreases the activation of the inhibitor of kappa B (IκB) kinase (IKK), leading to stabilized IκB and impaired nuclear translocation of NF-κB p65. Consequently, suppression of MMP-2 results in decreased nuclear NF-κB activity and attenuated expression of pro-inflammatory genes and pro-survival proteins regulated by NF-κB.\n\nCrucially, MMP-2 inhibition also affects non-NF-κB signaling branches. It was found that suppressing MMP-2 triggers activation of the c-Jun N-terminal kinase (JNK) pathway. Unlike p38 MAPK, JNK activation is essential for apoptosis induction in this context. Mechanistically, this JNK activation is linked to apoptosis via Fas-mediated pathways (including upregulation of Fas ligand and Fadd), culminating in caspase-dependent cell death. Inhibition of JNK reverses the apoptosis-promoting effect of MMP-2 suppression, indicating a causal role for JNK in the cytotoxic response. The apoptosis can be partly mitigated by NF-κB reactivation when constitutive suppressors of MMP-2 are present, suggesting cross-talk between these pathways.\n\nThese findings are supported by in vitro models where reducing MMP-2 sensitizes glioma cells to TNF-α-induced death and inhibits tumor growth in xenograft models. The effects observed are mechanistically linked to both NF-κB and JNK pathways, with evidence that JNK plays a pivotal pro-apoptotic role independent of NF-κB. Overall, targeting MMP-2 presents a promising strategy to block TNF-α-driven survival signals and provoke apoptotic cell death in glioma, potentially offering a new avenue for therapeutic intervention in glioma therapy.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1810,
+          "end": 1917,
+          "text": "reducing MMP-2 sensitizes glioma cells to TNF-α-induced death and inhibits tumor growth in xenograft models"
+        }
+      ]
+    },
+    {
+      "paper_id": "67525",
+      "claim_id": "67525:claim_1",
+      "claim": "Aging in female Wistar rats is associated with a significant decline in intracellular NAD+ levels and NAD+:NADH ratio across multiple organs, including the heart, lung, liver, and kidney, by middle age.",
+      "paragraph_id": "67525:answer_4",
+      "paragraph": "**Age-Related Changes in NAD+ Metabolism, Oxidative Stress, and Sirt1 Activity in Wistar Rats**\n\nAging in Wistar rats is associated with a significant decline in intracellular NAD+ levels and NAD+:NADH ratio across multiple organs, including the heart, lung, liver, and kidney, by middle age. This decline is accompanied by increased oxidative stress, which leads to increased lipid peroxidation, protein carbonyl formation, and DNA damage. Oxidative stress activates poly(ADP-ribose) polymerase (PARP), depleting NAD+ levels and reducing Sirt1 deacetylase activity, which is essential for maintaining cellular homeostasis.\n\nStudies have shown that Sirt1 activity declines with age in Wistar rats, despite moderate overexpression of Sirt1 protein, due to reduced NAD+ availability. This decline in Sirt1 activity contributes to cellular dysfunction and apoptosis. Furthermore, mitochondrial activity of complexes I–IV declines with aging in Wistar rats, leading to impaired redox status and reduced ATP production in the heart, lung, liver, and kidney.\n\nMelatonin has been shown to exert age-dependent effects by normalizing pyruvate levels and glucose-6-phosphate dehydrogenase activity in aged rats, and by enhancing metabolic flexibility and reducing glycemia in adult rats. However, melatonin's effects on NAD+ metabolism and Sirt1 activity are less clear.\n\nIn contrast, interventions such as NAD+ precursors (e.g., NMN, NR), Sirtuin activators (e.g., resveratrol, quercetin), and lifestyle strategies (e.g., intermittent fasting, exercise) have shown efficacy in preclinical models for mitigating age-related decline in NAD+ levels and Sirt1 activity.\n\n**Key Takeaways:**\n\n1. Aging in Wistar rats is associated with a decline in NAD+ levels and Sirt1 activity.\n2. Oxidative stress activates PARP, depleting NAD+ levels and reducing Sirt1 activity.\n3. Mitochondrial activity declines with aging, leading to impaired redox status and reduced ATP production.\n4. Melatonin may have age-dependent effects on metabolic flexibility and glycemia, but its effects on NAD+ metabolism and Sirt1 activity are unclear.\n5. Interventions targeting NAD+ levels and Sirt1 activity may be effective in mitigating age-related decline.\n\n**Future Research Directions:**\n\n1. Investigate the effects of NAD+ precursors, Sirtuin activators, and lifestyle strategies on NAD+ levels and Sirt1 activity in Wistar rats.\n2. Examine the role of PARP in activating oxidative stress and reducing NAD+ levels in aging Wistar rats.\n3. Elucidate the mechanisms by which mitochondrial activity declines with aging in Wistar rats.\n4. Investigate the effects of melatonin on NAD+ metabolism and Sirt1 activity in aging Wistar rats.\n5. Explore the therapeutic potential of interventions targeting NAD+ levels and Sirt1 activity for mitigating age-related decline in Wistar rats.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 97,
+          "end": 292,
+          "text": "Aging in Wistar rats is associated with a significant decline in intracellular NAD+ levels and NAD+:NADH ratio across multiple organs, including the heart, lung, liver, and kidney, by middle age."
+        }
+      ]
+    },
+    {
+      "paper_id": "67525",
+      "claim_id": "67525:claim_2",
+      "claim": "Age-related oxidative stress in Wistar rats leads to increased lipid peroxidation, protein carbonyl formation, and DNA damage, accompanied by a decline in total antioxidant capacity in the heart, lung, liver, and kidney.",
+      "paragraph_id": "67525:answer_4",
+      "paragraph": "**Age-Related Changes in NAD+ Metabolism, Oxidative Stress, and Sirt1 Activity in Wistar Rats**\n\nAging in Wistar rats is associated with a significant decline in intracellular NAD+ levels and NAD+:NADH ratio across multiple organs, including the heart, lung, liver, and kidney, by middle age. This decline is accompanied by increased oxidative stress, which leads to increased lipid peroxidation, protein carbonyl formation, and DNA damage. Oxidative stress activates poly(ADP-ribose) polymerase (PARP), depleting NAD+ levels and reducing Sirt1 deacetylase activity, which is essential for maintaining cellular homeostasis.\n\nStudies have shown that Sirt1 activity declines with age in Wistar rats, despite moderate overexpression of Sirt1 protein, due to reduced NAD+ availability. This decline in Sirt1 activity contributes to cellular dysfunction and apoptosis. Furthermore, mitochondrial activity of complexes I–IV declines with aging in Wistar rats, leading to impaired redox status and reduced ATP production in the heart, lung, liver, and kidney.\n\nMelatonin has been shown to exert age-dependent effects by normalizing pyruvate levels and glucose-6-phosphate dehydrogenase activity in aged rats, and by enhancing metabolic flexibility and reducing glycemia in adult rats. However, melatonin's effects on NAD+ metabolism and Sirt1 activity are less clear.\n\nIn contrast, interventions such as NAD+ precursors (e.g., NMN, NR), Sirtuin activators (e.g., resveratrol, quercetin), and lifestyle strategies (e.g., intermittent fasting, exercise) have shown efficacy in preclinical models for mitigating age-related decline in NAD+ levels and Sirt1 activity.\n\n**Key Takeaways:**\n\n1. Aging in Wistar rats is associated with a decline in NAD+ levels and Sirt1 activity.\n2. Oxidative stress activates PARP, depleting NAD+ levels and reducing Sirt1 activity.\n3. Mitochondrial activity declines with aging, leading to impaired redox status and reduced ATP production.\n4. Melatonin may have age-dependent effects on metabolic flexibility and glycemia, but its effects on NAD+ metabolism and Sirt1 activity are unclear.\n5. Interventions targeting NAD+ levels and Sirt1 activity may be effective in mitigating age-related decline.\n\n**Future Research Directions:**\n\n1. Investigate the effects of NAD+ precursors, Sirtuin activators, and lifestyle strategies on NAD+ levels and Sirt1 activity in Wistar rats.\n2. Examine the role of PARP in activating oxidative stress and reducing NAD+ levels in aging Wistar rats.\n3. Elucidate the mechanisms by which mitochondrial activity declines with aging in Wistar rats.\n4. Investigate the effects of melatonin on NAD+ metabolism and Sirt1 activity in aging Wistar rats.\n5. Explore the therapeutic potential of interventions targeting NAD+ levels and Sirt1 activity for mitigating age-related decline in Wistar rats.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 324,
+          "end": 439,
+          "text": "increased oxidative stress, which leads to increased lipid peroxidation, protein carbonyl formation, and DNA damage"
+        }
+      ]
+    },
+    {
+      "paper_id": "67525",
+      "claim_id": "67525:claim_3",
+      "claim": "Aging in Wistar rats results in decreased Sirt1 deacetylase activity and increased acetylation of p53, despite moderate overexpression of Sirt1 protein, due to reduced NAD+ availability.",
+      "paragraph_id": "67525:answer_4",
+      "paragraph": "**Age-Related Changes in NAD+ Metabolism, Oxidative Stress, and Sirt1 Activity in Wistar Rats**\n\nAging in Wistar rats is associated with a significant decline in intracellular NAD+ levels and NAD+:NADH ratio across multiple organs, including the heart, lung, liver, and kidney, by middle age. This decline is accompanied by increased oxidative stress, which leads to increased lipid peroxidation, protein carbonyl formation, and DNA damage. Oxidative stress activates poly(ADP-ribose) polymerase (PARP), depleting NAD+ levels and reducing Sirt1 deacetylase activity, which is essential for maintaining cellular homeostasis.\n\nStudies have shown that Sirt1 activity declines with age in Wistar rats, despite moderate overexpression of Sirt1 protein, due to reduced NAD+ availability. This decline in Sirt1 activity contributes to cellular dysfunction and apoptosis. Furthermore, mitochondrial activity of complexes I–IV declines with aging in Wistar rats, leading to impaired redox status and reduced ATP production in the heart, lung, liver, and kidney.\n\nMelatonin has been shown to exert age-dependent effects by normalizing pyruvate levels and glucose-6-phosphate dehydrogenase activity in aged rats, and by enhancing metabolic flexibility and reducing glycemia in adult rats. However, melatonin's effects on NAD+ metabolism and Sirt1 activity are less clear.\n\nIn contrast, interventions such as NAD+ precursors (e.g., NMN, NR), Sirtuin activators (e.g., resveratrol, quercetin), and lifestyle strategies (e.g., intermittent fasting, exercise) have shown efficacy in preclinical models for mitigating age-related decline in NAD+ levels and Sirt1 activity.\n\n**Key Takeaways:**\n\n1. Aging in Wistar rats is associated with a decline in NAD+ levels and Sirt1 activity.\n2. Oxidative stress activates PARP, depleting NAD+ levels and reducing Sirt1 activity.\n3. Mitochondrial activity declines with aging, leading to impaired redox status and reduced ATP production.\n4. Melatonin may have age-dependent effects on metabolic flexibility and glycemia, but its effects on NAD+ metabolism and Sirt1 activity are unclear.\n5. Interventions targeting NAD+ levels and Sirt1 activity may be effective in mitigating age-related decline.\n\n**Future Research Directions:**\n\n1. Investigate the effects of NAD+ precursors, Sirtuin activators, and lifestyle strategies on NAD+ levels and Sirt1 activity in Wistar rats.\n2. Examine the role of PARP in activating oxidative stress and reducing NAD+ levels in aging Wistar rats.\n3. Elucidate the mechanisms by which mitochondrial activity declines with aging in Wistar rats.\n4. Investigate the effects of melatonin on NAD+ metabolism and Sirt1 activity in aging Wistar rats.\n5. Explore the therapeutic potential of interventions targeting NAD+ levels and Sirt1 activity for mitigating age-related decline in Wistar rats.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 649,
+          "end": 781,
+          "text": "Sirt1 activity declines with age in Wistar rats, despite moderate overexpression of Sirt1 protein, due to reduced NAD+ availability."
+        }
+      ]
+    },
+    {
+      "paper_id": "67525",
+      "claim_id": "67525:claim_4",
+      "claim": "Mitochondrial activity of complexes I–IV declines with aging in Wistar rats, leading to impaired redox status and reduced ATP production in the heart, lung, liver, and kidney.",
+      "paragraph_id": "67525:answer_4",
+      "paragraph": "**Age-Related Changes in NAD+ Metabolism, Oxidative Stress, and Sirt1 Activity in Wistar Rats**\n\nAging in Wistar rats is associated with a significant decline in intracellular NAD+ levels and NAD+:NADH ratio across multiple organs, including the heart, lung, liver, and kidney, by middle age. This decline is accompanied by increased oxidative stress, which leads to increased lipid peroxidation, protein carbonyl formation, and DNA damage. Oxidative stress activates poly(ADP-ribose) polymerase (PARP), depleting NAD+ levels and reducing Sirt1 deacetylase activity, which is essential for maintaining cellular homeostasis.\n\nStudies have shown that Sirt1 activity declines with age in Wistar rats, despite moderate overexpression of Sirt1 protein, due to reduced NAD+ availability. This decline in Sirt1 activity contributes to cellular dysfunction and apoptosis. Furthermore, mitochondrial activity of complexes I–IV declines with aging in Wistar rats, leading to impaired redox status and reduced ATP production in the heart, lung, liver, and kidney.\n\nMelatonin has been shown to exert age-dependent effects by normalizing pyruvate levels and glucose-6-phosphate dehydrogenase activity in aged rats, and by enhancing metabolic flexibility and reducing glycemia in adult rats. However, melatonin's effects on NAD+ metabolism and Sirt1 activity are less clear.\n\nIn contrast, interventions such as NAD+ precursors (e.g., NMN, NR), Sirtuin activators (e.g., resveratrol, quercetin), and lifestyle strategies (e.g., intermittent fasting, exercise) have shown efficacy in preclinical models for mitigating age-related decline in NAD+ levels and Sirt1 activity.\n\n**Key Takeaways:**\n\n1. Aging in Wistar rats is associated with a decline in NAD+ levels and Sirt1 activity.\n2. Oxidative stress activates PARP, depleting NAD+ levels and reducing Sirt1 activity.\n3. Mitochondrial activity declines with aging, leading to impaired redox status and reduced ATP production.\n4. Melatonin may have age-dependent effects on metabolic flexibility and glycemia, but its effects on NAD+ metabolism and Sirt1 activity are unclear.\n5. Interventions targeting NAD+ levels and Sirt1 activity may be effective in mitigating age-related decline.\n\n**Future Research Directions:**\n\n1. Investigate the effects of NAD+ precursors, Sirtuin activators, and lifestyle strategies on NAD+ levels and Sirt1 activity in Wistar rats.\n2. Examine the role of PARP in activating oxidative stress and reducing NAD+ levels in aging Wistar rats.\n3. Elucidate the mechanisms by which mitochondrial activity declines with aging in Wistar rats.\n4. Investigate the effects of melatonin on NAD+ metabolism and Sirt1 activity in aging Wistar rats.\n5. Explore the therapeutic potential of interventions targeting NAD+ levels and Sirt1 activity for mitigating age-related decline in Wistar rats.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 877,
+          "end": 1052,
+          "text": "mitochondrial activity of complexes I–IV declines with aging in Wistar rats, leading to impaired redox status and reduced ATP production in the heart, lung, liver, and kidney."
+        }
+      ]
+    },
+    {
+      "paper_id": "67525",
+      "claim_id": "67525:claim_5",
+      "claim": "Oxidative stress-induced DNA damage activates PARP in aging Wistar rats, depleting NAD+ levels and contributing to cellular dysfunction and apoptosis.",
+      "paragraph_id": "67525:answer_4",
+      "paragraph": "**Age-Related Changes in NAD+ Metabolism, Oxidative Stress, and Sirt1 Activity in Wistar Rats**\n\nAging in Wistar rats is associated with a significant decline in intracellular NAD+ levels and NAD+:NADH ratio across multiple organs, including the heart, lung, liver, and kidney, by middle age. This decline is accompanied by increased oxidative stress, which leads to increased lipid peroxidation, protein carbonyl formation, and DNA damage. Oxidative stress activates poly(ADP-ribose) polymerase (PARP), depleting NAD+ levels and reducing Sirt1 deacetylase activity, which is essential for maintaining cellular homeostasis.\n\nStudies have shown that Sirt1 activity declines with age in Wistar rats, despite moderate overexpression of Sirt1 protein, due to reduced NAD+ availability. This decline in Sirt1 activity contributes to cellular dysfunction and apoptosis. Furthermore, mitochondrial activity of complexes I–IV declines with aging in Wistar rats, leading to impaired redox status and reduced ATP production in the heart, lung, liver, and kidney.\n\nMelatonin has been shown to exert age-dependent effects by normalizing pyruvate levels and glucose-6-phosphate dehydrogenase activity in aged rats, and by enhancing metabolic flexibility and reducing glycemia in adult rats. However, melatonin's effects on NAD+ metabolism and Sirt1 activity are less clear.\n\nIn contrast, interventions such as NAD+ precursors (e.g., NMN, NR), Sirtuin activators (e.g., resveratrol, quercetin), and lifestyle strategies (e.g., intermittent fasting, exercise) have shown efficacy in preclinical models for mitigating age-related decline in NAD+ levels and Sirt1 activity.\n\n**Key Takeaways:**\n\n1. Aging in Wistar rats is associated with a decline in NAD+ levels and Sirt1 activity.\n2. Oxidative stress activates PARP, depleting NAD+ levels and reducing Sirt1 activity.\n3. Mitochondrial activity declines with aging, leading to impaired redox status and reduced ATP production.\n4. Melatonin may have age-dependent effects on metabolic flexibility and glycemia, but its effects on NAD+ metabolism and Sirt1 activity are unclear.\n5. Interventions targeting NAD+ levels and Sirt1 activity may be effective in mitigating age-related decline.\n\n**Future Research Directions:**\n\n1. Investigate the effects of NAD+ precursors, Sirtuin activators, and lifestyle strategies on NAD+ levels and Sirt1 activity in Wistar rats.\n2. Examine the role of PARP in activating oxidative stress and reducing NAD+ levels in aging Wistar rats.\n3. Elucidate the mechanisms by which mitochondrial activity declines with aging in Wistar rats.\n4. Investigate the effects of melatonin on NAD+ metabolism and Sirt1 activity in aging Wistar rats.\n5. Explore the therapeutic potential of interventions targeting NAD+ levels and Sirt1 activity for mitigating age-related decline in Wistar rats.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 441,
+          "end": 525,
+          "text": "Oxidative stress activates poly(ADP-ribose) polymerase (PARP), depleting NAD+ levels"
+        }
+      ]
+    },
+    {
+      "paper_id": "68831",
+      "claim_id": "68831:claim_1",
+      "claim": "Baicalin, a flavonoid isolated from Radix Scutellaria, inhibits the replication of influenza A viruses H1N1 and H3N2 in A549 cells by downregulating miR-146a, which negatively regulates type I interferon production through targeting TNF receptor-associated factor 6 (TRAF6).",
+      "paragraph_id": "68831:answer_3",
+      "paragraph": "**Summary:**\n\nBaicalin, a flavonoid isolated from Radix Scutellaria, inhibits the replication of influenza A viruses (both H1N1 and H3N2) by enhancing the host’s type I interferon (IFN-I) antiviral response. Mechanistically, baicalin downregulates microRNA-146a (miR-146a), a miRNA that normally suppresses type I interferon signaling by targeting the tumor necrosis factor receptor-associated factor 6 (TRAF6). By reducing miR-146a levels, baicalin increases TRAF6 expression, thereby activating the transcription factors IRF7 and STAT2—key mediators of type I interferon gene induction. Elevated type I interferon signaling induces interferon-stimulated genes (ISGs), which directly suppress influenza viral replication. In vivo, baicalin treatment protects mice from influenza infection by improving lung pathology and increasing survival, reducing viral load in the lungs. Notably, suppression of miR-146a by baicalin upregulates TRAF6 and interferon signaling, and overexpression of miR-146a can abrogate these antiviral effects. These findings establish baicalin’s action as a novel regulator of the influenza viral life cycle via the miR-146a/TRAF6/IFN-I axis, offering a potential new therapeutic strategy for influenza treatment.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 14,
+          "end": 411,
+          "text": "Baicalin, a flavonoid isolated from Radix Scutellaria, inhibits the replication of influenza A viruses (both H1N1 and H3N2) by enhancing the host’s type I interferon (IFN-I) antiviral response. Mechanistically, baicalin downregulates microRNA-146a (miR-146a), a miRNA that normally suppresses type I interferon signaling by targeting the tumor necrosis factor receptor-associated factor 6 (TRAF6)."
+        }
+      ]
+    },
+    {
+      "paper_id": "68831",
+      "claim_id": "68831:claim_2",
+      "claim": "The suppression of miR-146a by baicalin enhances the expression of TRAF6, leading to the activation of the type I interferon response, which is critical for antiviral defense against influenza A viruses.",
+      "paragraph_id": "68831:answer_3",
+      "paragraph": "**Summary:**\n\nBaicalin, a flavonoid isolated from Radix Scutellaria, inhibits the replication of influenza A viruses (both H1N1 and H3N2) by enhancing the host’s type I interferon (IFN-I) antiviral response. Mechanistically, baicalin downregulates microRNA-146a (miR-146a), a miRNA that normally suppresses type I interferon signaling by targeting the tumor necrosis factor receptor-associated factor 6 (TRAF6). By reducing miR-146a levels, baicalin increases TRAF6 expression, thereby activating the transcription factors IRF7 and STAT2—key mediators of type I interferon gene induction. Elevated type I interferon signaling induces interferon-stimulated genes (ISGs), which directly suppress influenza viral replication. In vivo, baicalin treatment protects mice from influenza infection by improving lung pathology and increasing survival, reducing viral load in the lungs. Notably, suppression of miR-146a by baicalin upregulates TRAF6 and interferon signaling, and overexpression of miR-146a can abrogate these antiviral effects. These findings establish baicalin’s action as a novel regulator of the influenza viral life cycle via the miR-146a/TRAF6/IFN-I axis, offering a potential new therapeutic strategy for influenza treatment.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 412,
+          "end": 588,
+          "text": "By reducing miR-146a levels, baicalin increases TRAF6 expression, thereby activating the transcription factors IRF7 and STAT2—key mediators of type I interferon gene induction."
+        }
+      ]
+    },
+    {
+      "paper_id": "68831",
+      "claim_id": "68831:claim_3",
+      "claim": "In vivo experiments demonstrate that baicalin protects mice from H1N1 influenza virus infection by reducing miR-146a levels, thereby alleviating lung pathology and increasing survival rates.",
+      "paragraph_id": "68831:answer_3",
+      "paragraph": "**Summary:**\n\nBaicalin, a flavonoid isolated from Radix Scutellaria, inhibits the replication of influenza A viruses (both H1N1 and H3N2) by enhancing the host’s type I interferon (IFN-I) antiviral response. Mechanistically, baicalin downregulates microRNA-146a (miR-146a), a miRNA that normally suppresses type I interferon signaling by targeting the tumor necrosis factor receptor-associated factor 6 (TRAF6). By reducing miR-146a levels, baicalin increases TRAF6 expression, thereby activating the transcription factors IRF7 and STAT2—key mediators of type I interferon gene induction. Elevated type I interferon signaling induces interferon-stimulated genes (ISGs), which directly suppress influenza viral replication. In vivo, baicalin treatment protects mice from influenza infection by improving lung pathology and increasing survival, reducing viral load in the lungs. Notably, suppression of miR-146a by baicalin upregulates TRAF6 and interferon signaling, and overexpression of miR-146a can abrogate these antiviral effects. These findings establish baicalin’s action as a novel regulator of the influenza viral life cycle via the miR-146a/TRAF6/IFN-I axis, offering a potential new therapeutic strategy for influenza treatment.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 723,
+          "end": 876,
+          "text": "In vivo, baicalin treatment protects mice from influenza infection by improving lung pathology and increasing survival, reducing viral load in the lungs."
+        }
+      ]
+    },
+    {
+      "paper_id": "68831",
+      "claim_id": "68831:claim_4",
+      "claim": "Ectopic overexpression of miR-146a negates the antiviral effects of baicalin, confirming that miR-146a is a key target in baicalin's mechanism of action against influenza A viruses.",
+      "paragraph_id": "68831:answer_3",
+      "paragraph": "**Summary:**\n\nBaicalin, a flavonoid isolated from Radix Scutellaria, inhibits the replication of influenza A viruses (both H1N1 and H3N2) by enhancing the host’s type I interferon (IFN-I) antiviral response. Mechanistically, baicalin downregulates microRNA-146a (miR-146a), a miRNA that normally suppresses type I interferon signaling by targeting the tumor necrosis factor receptor-associated factor 6 (TRAF6). By reducing miR-146a levels, baicalin increases TRAF6 expression, thereby activating the transcription factors IRF7 and STAT2—key mediators of type I interferon gene induction. Elevated type I interferon signaling induces interferon-stimulated genes (ISGs), which directly suppress influenza viral replication. In vivo, baicalin treatment protects mice from influenza infection by improving lung pathology and increasing survival, reducing viral load in the lungs. Notably, suppression of miR-146a by baicalin upregulates TRAF6 and interferon signaling, and overexpression of miR-146a can abrogate these antiviral effects. These findings establish baicalin’s action as a novel regulator of the influenza viral life cycle via the miR-146a/TRAF6/IFN-I axis, offering a potential new therapeutic strategy for influenza treatment.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 970,
+          "end": 1033,
+          "text": "overexpression of miR-146a can abrogate these antiviral effects"
+        }
+      ]
+    },
+    {
+      "paper_id": "68831",
+      "claim_id": "68831:claim_5",
+      "claim": "TRAF6 is directly targeted by miR-146a, and its suppression by miR-146a inhibits type I interferon signaling, which is reversed by baicalin treatment during influenza A virus infection.",
+      "paragraph_id": "68831:answer_3",
+      "paragraph": "**Summary:**\n\nBaicalin, a flavonoid isolated from Radix Scutellaria, inhibits the replication of influenza A viruses (both H1N1 and H3N2) by enhancing the host’s type I interferon (IFN-I) antiviral response. Mechanistically, baicalin downregulates microRNA-146a (miR-146a), a miRNA that normally suppresses type I interferon signaling by targeting the tumor necrosis factor receptor-associated factor 6 (TRAF6). By reducing miR-146a levels, baicalin increases TRAF6 expression, thereby activating the transcription factors IRF7 and STAT2—key mediators of type I interferon gene induction. Elevated type I interferon signaling induces interferon-stimulated genes (ISGs), which directly suppress influenza viral replication. In vivo, baicalin treatment protects mice from influenza infection by improving lung pathology and increasing survival, reducing viral load in the lungs. Notably, suppression of miR-146a by baicalin upregulates TRAF6 and interferon signaling, and overexpression of miR-146a can abrogate these antiviral effects. These findings establish baicalin’s action as a novel regulator of the influenza viral life cycle via the miR-146a/TRAF6/IFN-I axis, offering a potential new therapeutic strategy for influenza treatment.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 14,
+          "end": 411,
+          "text": "Baicalin, a flavonoid isolated from Radix Scutellaria, inhibits the replication of influenza A viruses (both H1N1 and H3N2) by enhancing the host’s type I interferon (IFN-I) antiviral response. Mechanistically, baicalin downregulates microRNA-146a (miR-146a), a miRNA that normally suppresses type I interferon signaling by targeting the tumor necrosis factor receptor-associated factor 6 (TRAF6)."
+        },
+        {
+          "start": 886,
+          "end": 964,
+          "text": "suppression of miR-146a by baicalin upregulates TRAF6 and interferon signaling"
+        }
+      ]
+    },
+    {
+      "paper_id": "68848",
+      "claim_id": "68848:claim_1",
+      "claim": "The combination of the FGFR4 inhibitor PD173074 and 5-fluorouracil reduces proliferation and increases apoptosis in gastric cancer cells more effectively than either agent alone.",
+      "paragraph_id": "68848:answer_3",
+      "paragraph": "**Summary:**\n\nIn gastric cancer, the combined use of the FGFR4 inhibitor PD173074 and the chemotherapy agent 5-fluorouracil (5-FU) has been shown to enhance antitumor effects compared to either agent alone. PD173074 specifically inhibits the fibroblast growth factor receptor 4 (FGFR4), which is overexpressed in many gastric cancer cells. This inhibition reduces phosphorylation of key signaling proteins like ERK1/2 and Akt (particularly through Akt1), decreases expression of pro-survival proteins such as Bcl-xl, and increases apoptosis markers such as caspase-3. Additionally, 5-FU contributes to apoptosis and can further suppress FGFR4 expression in some contexts, though its primary cytotoxic activity is through DNA replication blockade. \n\nTogether, PD173074 and 5-FU synergistically suppress cell proliferation, mainly by inducing G1/S phase arrest and promoting apoptotic cell death. This combination reduces expression of proliferation-promoting genes (such as PCNA) and increases pro-apoptotic genes (such as BAX and cleaved caspase-3). Preclinical data, including studies in gastric cancer cell lines (such as SGC7901 and MKN45), support this synergy, with increased tumor growth inhibition and sensitization to 5-FU observed in vivo and in experimental models. \n\nFurthermore, the combination appears to modulate important signaling networks, including Akt and Erk, and may influence cell cycle checkpoints, autophagy, and angiogenesis-related pathways, potentially contributing to the enhanced therapeutic effect. Overall, PD173074 is proposed as an attractive target for combination therapy with 5-FU in gastric cancer, aiming to overcome drug resistance and improve clinical outcomes by inducing a stronger apoptotic response and slowing tumor growth through dual mechanisms.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 749,
+          "end": 894,
+          "text": "Together, PD173074 and 5-FU synergistically suppress cell proliferation, mainly by inducing G1/S phase arrest and promoting apoptotic cell death."
+        }
+      ]
+    },
+    {
+      "paper_id": "68848",
+      "claim_id": "68848:claim_2",
+      "claim": "PD173074 inhibits the activity of FGFR4, reducing p-ERK and Bcl-xl expression while increasing caspase-3 expression, thereby promoting apoptosis in gastric cancer cells.",
+      "paragraph_id": "68848:answer_3",
+      "paragraph": "**Summary:**\n\nIn gastric cancer, the combined use of the FGFR4 inhibitor PD173074 and the chemotherapy agent 5-fluorouracil (5-FU) has been shown to enhance antitumor effects compared to either agent alone. PD173074 specifically inhibits the fibroblast growth factor receptor 4 (FGFR4), which is overexpressed in many gastric cancer cells. This inhibition reduces phosphorylation of key signaling proteins like ERK1/2 and Akt (particularly through Akt1), decreases expression of pro-survival proteins such as Bcl-xl, and increases apoptosis markers such as caspase-3. Additionally, 5-FU contributes to apoptosis and can further suppress FGFR4 expression in some contexts, though its primary cytotoxic activity is through DNA replication blockade. \n\nTogether, PD173074 and 5-FU synergistically suppress cell proliferation, mainly by inducing G1/S phase arrest and promoting apoptotic cell death. This combination reduces expression of proliferation-promoting genes (such as PCNA) and increases pro-apoptotic genes (such as BAX and cleaved caspase-3). Preclinical data, including studies in gastric cancer cell lines (such as SGC7901 and MKN45), support this synergy, with increased tumor growth inhibition and sensitization to 5-FU observed in vivo and in experimental models. \n\nFurthermore, the combination appears to modulate important signaling networks, including Akt and Erk, and may influence cell cycle checkpoints, autophagy, and angiogenesis-related pathways, potentially contributing to the enhanced therapeutic effect. Overall, PD173074 is proposed as an attractive target for combination therapy with 5-FU in gastric cancer, aiming to overcome drug resistance and improve clinical outcomes by inducing a stronger apoptotic response and slowing tumor growth through dual mechanisms.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 207,
+          "end": 567,
+          "text": "PD173074 specifically inhibits the fibroblast growth factor receptor 4 (FGFR4), which is overexpressed in many gastric cancer cells. This inhibition reduces phosphorylation of key signaling proteins like ERK1/2 and Akt (particularly through Akt1), decreases expression of pro-survival proteins such as Bcl-xl, and increases apoptosis markers such as caspase-3."
+        }
+      ]
+    },
+    {
+      "paper_id": "68848",
+      "claim_id": "68848:claim_3",
+      "claim": "5-fluorouracil reduces FGFR4 expression in gastric cancer cells, contributing to its anti-proliferative and pro-apoptotic effects.",
+      "paragraph_id": "68848:answer_3",
+      "paragraph": "**Summary:**\n\nIn gastric cancer, the combined use of the FGFR4 inhibitor PD173074 and the chemotherapy agent 5-fluorouracil (5-FU) has been shown to enhance antitumor effects compared to either agent alone. PD173074 specifically inhibits the fibroblast growth factor receptor 4 (FGFR4), which is overexpressed in many gastric cancer cells. This inhibition reduces phosphorylation of key signaling proteins like ERK1/2 and Akt (particularly through Akt1), decreases expression of pro-survival proteins such as Bcl-xl, and increases apoptosis markers such as caspase-3. Additionally, 5-FU contributes to apoptosis and can further suppress FGFR4 expression in some contexts, though its primary cytotoxic activity is through DNA replication blockade. \n\nTogether, PD173074 and 5-FU synergistically suppress cell proliferation, mainly by inducing G1/S phase arrest and promoting apoptotic cell death. This combination reduces expression of proliferation-promoting genes (such as PCNA) and increases pro-apoptotic genes (such as BAX and cleaved caspase-3). Preclinical data, including studies in gastric cancer cell lines (such as SGC7901 and MKN45), support this synergy, with increased tumor growth inhibition and sensitization to 5-FU observed in vivo and in experimental models. \n\nFurthermore, the combination appears to modulate important signaling networks, including Akt and Erk, and may influence cell cycle checkpoints, autophagy, and angiogenesis-related pathways, potentially contributing to the enhanced therapeutic effect. Overall, PD173074 is proposed as an attractive target for combination therapy with 5-FU in gastric cancer, aiming to overcome drug resistance and improve clinical outcomes by inducing a stronger apoptotic response and slowing tumor growth through dual mechanisms.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 582,
+          "end": 670,
+          "text": "5-FU contributes to apoptosis and can further suppress FGFR4 expression in some contexts"
+        }
+      ]
+    },
+    {
+      "paper_id": "68848",
+      "claim_id": "68848:claim_4",
+      "claim": "FGFR4 expression is elevated in gastric cancer cells, and its inhibition by PD173074 decreases cell proliferation and enhances apoptosis.",
+      "paragraph_id": "68848:answer_3",
+      "paragraph": "**Summary:**\n\nIn gastric cancer, the combined use of the FGFR4 inhibitor PD173074 and the chemotherapy agent 5-fluorouracil (5-FU) has been shown to enhance antitumor effects compared to either agent alone. PD173074 specifically inhibits the fibroblast growth factor receptor 4 (FGFR4), which is overexpressed in many gastric cancer cells. This inhibition reduces phosphorylation of key signaling proteins like ERK1/2 and Akt (particularly through Akt1), decreases expression of pro-survival proteins such as Bcl-xl, and increases apoptosis markers such as caspase-3. Additionally, 5-FU contributes to apoptosis and can further suppress FGFR4 expression in some contexts, though its primary cytotoxic activity is through DNA replication blockade. \n\nTogether, PD173074 and 5-FU synergistically suppress cell proliferation, mainly by inducing G1/S phase arrest and promoting apoptotic cell death. This combination reduces expression of proliferation-promoting genes (such as PCNA) and increases pro-apoptotic genes (such as BAX and cleaved caspase-3). Preclinical data, including studies in gastric cancer cell lines (such as SGC7901 and MKN45), support this synergy, with increased tumor growth inhibition and sensitization to 5-FU observed in vivo and in experimental models. \n\nFurthermore, the combination appears to modulate important signaling networks, including Akt and Erk, and may influence cell cycle checkpoints, autophagy, and angiogenesis-related pathways, potentially contributing to the enhanced therapeutic effect. Overall, PD173074 is proposed as an attractive target for combination therapy with 5-FU in gastric cancer, aiming to overcome drug resistance and improve clinical outcomes by inducing a stronger apoptotic response and slowing tumor growth through dual mechanisms.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 207,
+          "end": 567,
+          "text": "PD173074 specifically inhibits the fibroblast growth factor receptor 4 (FGFR4), which is overexpressed in many gastric cancer cells. This inhibition reduces phosphorylation of key signaling proteins like ERK1/2 and Akt (particularly through Akt1), decreases expression of pro-survival proteins such as Bcl-xl, and increases apoptosis markers such as caspase-3."
+        }
+      ]
+    },
+    {
+      "paper_id": "68848",
+      "claim_id": "68848:claim_5",
+      "claim": "The combination of PD173074 and 5-fluorouracil demonstrates a synergistic effect in reducing proliferation and increasing apoptosis in gastric cancer cells, suggesting potential for improved therapeutic strategies.",
+      "paragraph_id": "68848:answer_3",
+      "paragraph": "**Summary:**\n\nIn gastric cancer, the combined use of the FGFR4 inhibitor PD173074 and the chemotherapy agent 5-fluorouracil (5-FU) has been shown to enhance antitumor effects compared to either agent alone. PD173074 specifically inhibits the fibroblast growth factor receptor 4 (FGFR4), which is overexpressed in many gastric cancer cells. This inhibition reduces phosphorylation of key signaling proteins like ERK1/2 and Akt (particularly through Akt1), decreases expression of pro-survival proteins such as Bcl-xl, and increases apoptosis markers such as caspase-3. Additionally, 5-FU contributes to apoptosis and can further suppress FGFR4 expression in some contexts, though its primary cytotoxic activity is through DNA replication blockade. \n\nTogether, PD173074 and 5-FU synergistically suppress cell proliferation, mainly by inducing G1/S phase arrest and promoting apoptotic cell death. This combination reduces expression of proliferation-promoting genes (such as PCNA) and increases pro-apoptotic genes (such as BAX and cleaved caspase-3). Preclinical data, including studies in gastric cancer cell lines (such as SGC7901 and MKN45), support this synergy, with increased tumor growth inhibition and sensitization to 5-FU observed in vivo and in experimental models. \n\nFurthermore, the combination appears to modulate important signaling networks, including Akt and Erk, and may influence cell cycle checkpoints, autophagy, and angiogenesis-related pathways, potentially contributing to the enhanced therapeutic effect. Overall, PD173074 is proposed as an attractive target for combination therapy with 5-FU in gastric cancer, aiming to overcome drug resistance and improve clinical outcomes by inducing a stronger apoptotic response and slowing tumor growth through dual mechanisms.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 749,
+          "end": 894,
+          "text": "Together, PD173074 and 5-FU synergistically suppress cell proliferation, mainly by inducing G1/S phase arrest and promoting apoptotic cell death."
+        }
+      ]
+    },
+    {
+      "paper_id": "68910",
+      "claim_id": "68910:claim_1",
+      "claim": "Silencing of C-X-C chemokine receptor type 4 (CXCR4) expression in tongue squamous cell carcinoma (TSCCA) cells suppresses epithelial-mesenchymal transition (EMT) by reducing the expression of mesenchymal markers such as N-cadherin and matrix metalloproteinases 2/9, while increasing the expression of the epithelial marker E-cadherin.",
+      "paragraph_id": "68910:answer_2",
+      "paragraph": "**Summary: CXCR4 Silencing Inhibits Epithelial-Mesenchymal Transition (EMT) in Oral Squamous Cell Carcinoma (OSCC)**\n\nThis study investigates the role of the C-X-C chemokine receptor type 4 (CXCR4) in oral squamous cell carcinoma (OSCC) by specifically silencing its expression using small interfering RNA (siRNA). The findings demonstrate that CXCR4 silencing significantly inhibits the epithelial-mesenchymal transition (EMT), a critical process enabling tumor cells to become more invasive and metastatic. Reduction in EMT is associated with decreased expression of mesenchymal markers such as N-cadherin and matrix metalloproteinases (MMPs) 2 and 9, as well as increased expression of the epithelial marker E-cadherin. \n\nIn addition to inhibiting EMT, CXCR4 silencing decreases cell migration and invasion in vitro and suppresses tumor growth in in vivo xenograft models. Histological analysis of the tumor xenografts treated with CXCR4 siRNA reveals reduced neovascularity, increased apoptosis, and necrosis, along with altered expression patterns of key EMT-associated proteins that favor an epithelial phenotype over a mesenchymal one. These data support the notion that CXCR4 contributes to tumor progression, at least in part, by promoting EMT and metastasis.\n\nFurthermore, the authors link CXCR4’s regulatory role in EMT to broader tumor-related processes, including signaling pathways that influence cancer cell survival, progression, and immune escape. Notably, the study associates CXCR4 expression with worse prognostic features in OSCC, such as a higher risk of metastasis and invasive disease, suggesting its potential as a molecular target for both diagnostic and therapeutic strategies.\n\nOverall, the targeted silencing of CXCR4 in OSCC suppresses key features of tumor aggressiveness—specifically by inhibiting EMT, decreasing motility and invasiveness, and impairing tumor growth—highlighting CXCR4 as a promising therapeutic target to counteract tumor progression in oral cancer.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 345,
+          "end": 722,
+          "text": "CXCR4 silencing significantly inhibits the epithelial-mesenchymal transition (EMT), a critical process enabling tumor cells to become more invasive and metastatic. Reduction in EMT is associated with decreased expression of mesenchymal markers such as N-cadherin and matrix metalloproteinases (MMPs) 2 and 9, as well as increased expression of the epithelial marker E-cadherin."
+        }
+      ]
+    },
+    {
+      "paper_id": "68910",
+      "claim_id": "68910:claim_2",
+      "claim": "CXCR4 silencing inhibits cell migration and invasion, promotes apoptosis in TSCCA cells in vitro, and reduces tumor growth in xenograft models in vivo.",
+      "paragraph_id": "68910:answer_2",
+      "paragraph": "**Summary: CXCR4 Silencing Inhibits Epithelial-Mesenchymal Transition (EMT) in Oral Squamous Cell Carcinoma (OSCC)**\n\nThis study investigates the role of the C-X-C chemokine receptor type 4 (CXCR4) in oral squamous cell carcinoma (OSCC) by specifically silencing its expression using small interfering RNA (siRNA). The findings demonstrate that CXCR4 silencing significantly inhibits the epithelial-mesenchymal transition (EMT), a critical process enabling tumor cells to become more invasive and metastatic. Reduction in EMT is associated with decreased expression of mesenchymal markers such as N-cadherin and matrix metalloproteinases (MMPs) 2 and 9, as well as increased expression of the epithelial marker E-cadherin. \n\nIn addition to inhibiting EMT, CXCR4 silencing decreases cell migration and invasion in vitro and suppresses tumor growth in in vivo xenograft models. Histological analysis of the tumor xenografts treated with CXCR4 siRNA reveals reduced neovascularity, increased apoptosis, and necrosis, along with altered expression patterns of key EMT-associated proteins that favor an epithelial phenotype over a mesenchymal one. These data support the notion that CXCR4 contributes to tumor progression, at least in part, by promoting EMT and metastasis.\n\nFurthermore, the authors link CXCR4’s regulatory role in EMT to broader tumor-related processes, including signaling pathways that influence cancer cell survival, progression, and immune escape. Notably, the study associates CXCR4 expression with worse prognostic features in OSCC, such as a higher risk of metastasis and invasive disease, suggesting its potential as a molecular target for both diagnostic and therapeutic strategies.\n\nOverall, the targeted silencing of CXCR4 in OSCC suppresses key features of tumor aggressiveness—specifically by inhibiting EMT, decreasing motility and invasiveness, and impairing tumor growth—highlighting CXCR4 as a promising therapeutic target to counteract tumor progression in oral cancer.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 756,
+          "end": 875,
+          "text": "CXCR4 silencing decreases cell migration and invasion in vitro and suppresses tumor growth in in vivo xenograft models."
+        }
+      ]
+    },
+    {
+      "paper_id": "68910",
+      "claim_id": "68910:claim_3",
+      "claim": "Histological analysis of xenograft tumors treated with CXCR4 siRNA shows reduced neovasculature, increased apoptosis and necrosis, and altered expression of EMT-associated proteins consistent with EMT suppression.",
+      "paragraph_id": "68910:answer_2",
+      "paragraph": "**Summary: CXCR4 Silencing Inhibits Epithelial-Mesenchymal Transition (EMT) in Oral Squamous Cell Carcinoma (OSCC)**\n\nThis study investigates the role of the C-X-C chemokine receptor type 4 (CXCR4) in oral squamous cell carcinoma (OSCC) by specifically silencing its expression using small interfering RNA (siRNA). The findings demonstrate that CXCR4 silencing significantly inhibits the epithelial-mesenchymal transition (EMT), a critical process enabling tumor cells to become more invasive and metastatic. Reduction in EMT is associated with decreased expression of mesenchymal markers such as N-cadherin and matrix metalloproteinases (MMPs) 2 and 9, as well as increased expression of the epithelial marker E-cadherin. \n\nIn addition to inhibiting EMT, CXCR4 silencing decreases cell migration and invasion in vitro and suppresses tumor growth in in vivo xenograft models. Histological analysis of the tumor xenografts treated with CXCR4 siRNA reveals reduced neovascularity, increased apoptosis, and necrosis, along with altered expression patterns of key EMT-associated proteins that favor an epithelial phenotype over a mesenchymal one. These data support the notion that CXCR4 contributes to tumor progression, at least in part, by promoting EMT and metastasis.\n\nFurthermore, the authors link CXCR4’s regulatory role in EMT to broader tumor-related processes, including signaling pathways that influence cancer cell survival, progression, and immune escape. Notably, the study associates CXCR4 expression with worse prognostic features in OSCC, such as a higher risk of metastasis and invasive disease, suggesting its potential as a molecular target for both diagnostic and therapeutic strategies.\n\nOverall, the targeted silencing of CXCR4 in OSCC suppresses key features of tumor aggressiveness—specifically by inhibiting EMT, decreasing motility and invasiveness, and impairing tumor growth—highlighting CXCR4 as a promising therapeutic target to counteract tumor progression in oral cancer.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 876,
+          "end": 1142,
+          "text": "Histological analysis of the tumor xenografts treated with CXCR4 siRNA reveals reduced neovascularity, increased apoptosis, and necrosis, along with altered expression patterns of key EMT-associated proteins that favor an epithelial phenotype over a mesenchymal one."
+        }
+      ]
+    },
+    {
+      "paper_id": "68910",
+      "claim_id": "68910:claim_4",
+      "claim": "CXCR4 expression is significantly associated with the metastatic potential and invasiveness of oral squamous cell carcinoma (OSCC), making it a potential molecular target for diagnosis and therapy.",
+      "paragraph_id": "68910:answer_2",
+      "paragraph": "**Summary: CXCR4 Silencing Inhibits Epithelial-Mesenchymal Transition (EMT) in Oral Squamous Cell Carcinoma (OSCC)**\n\nThis study investigates the role of the C-X-C chemokine receptor type 4 (CXCR4) in oral squamous cell carcinoma (OSCC) by specifically silencing its expression using small interfering RNA (siRNA). The findings demonstrate that CXCR4 silencing significantly inhibits the epithelial-mesenchymal transition (EMT), a critical process enabling tumor cells to become more invasive and metastatic. Reduction in EMT is associated with decreased expression of mesenchymal markers such as N-cadherin and matrix metalloproteinases (MMPs) 2 and 9, as well as increased expression of the epithelial marker E-cadherin. \n\nIn addition to inhibiting EMT, CXCR4 silencing decreases cell migration and invasion in vitro and suppresses tumor growth in in vivo xenograft models. Histological analysis of the tumor xenografts treated with CXCR4 siRNA reveals reduced neovascularity, increased apoptosis, and necrosis, along with altered expression patterns of key EMT-associated proteins that favor an epithelial phenotype over a mesenchymal one. These data support the notion that CXCR4 contributes to tumor progression, at least in part, by promoting EMT and metastasis.\n\nFurthermore, the authors link CXCR4’s regulatory role in EMT to broader tumor-related processes, including signaling pathways that influence cancer cell survival, progression, and immune escape. Notably, the study associates CXCR4 expression with worse prognostic features in OSCC, such as a higher risk of metastasis and invasive disease, suggesting its potential as a molecular target for both diagnostic and therapeutic strategies.\n\nOverall, the targeted silencing of CXCR4 in OSCC suppresses key features of tumor aggressiveness—specifically by inhibiting EMT, decreasing motility and invasiveness, and impairing tumor growth—highlighting CXCR4 as a promising therapeutic target to counteract tumor progression in oral cancer.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1474,
+          "end": 1704,
+          "text": "the study associates CXCR4 expression with worse prognostic features in OSCC, such as a higher risk of metastasis and invasive disease, suggesting its potential as a molecular target for both diagnostic and therapeutic strategies."
+        }
+      ]
+    },
+    {
+      "paper_id": "68910",
+      "claim_id": "68910:claim_5",
+      "claim": "The CXCR4-mediated regulation of EMT in OSCC may involve transcriptional and signaling pathways that influence tumor progression, apoptosis, and metastasis.",
+      "paragraph_id": "68910:answer_2",
+      "paragraph": "**Summary: CXCR4 Silencing Inhibits Epithelial-Mesenchymal Transition (EMT) in Oral Squamous Cell Carcinoma (OSCC)**\n\nThis study investigates the role of the C-X-C chemokine receptor type 4 (CXCR4) in oral squamous cell carcinoma (OSCC) by specifically silencing its expression using small interfering RNA (siRNA). The findings demonstrate that CXCR4 silencing significantly inhibits the epithelial-mesenchymal transition (EMT), a critical process enabling tumor cells to become more invasive and metastatic. Reduction in EMT is associated with decreased expression of mesenchymal markers such as N-cadherin and matrix metalloproteinases (MMPs) 2 and 9, as well as increased expression of the epithelial marker E-cadherin. \n\nIn addition to inhibiting EMT, CXCR4 silencing decreases cell migration and invasion in vitro and suppresses tumor growth in in vivo xenograft models. Histological analysis of the tumor xenografts treated with CXCR4 siRNA reveals reduced neovascularity, increased apoptosis, and necrosis, along with altered expression patterns of key EMT-associated proteins that favor an epithelial phenotype over a mesenchymal one. These data support the notion that CXCR4 contributes to tumor progression, at least in part, by promoting EMT and metastasis.\n\nFurthermore, the authors link CXCR4’s regulatory role in EMT to broader tumor-related processes, including signaling pathways that influence cancer cell survival, progression, and immune escape. Notably, the study associates CXCR4 expression with worse prognostic features in OSCC, such as a higher risk of metastasis and invasive disease, suggesting its potential as a molecular target for both diagnostic and therapeutic strategies.\n\nOverall, the targeted silencing of CXCR4 in OSCC suppresses key features of tumor aggressiveness—specifically by inhibiting EMT, decreasing motility and invasiveness, and impairing tumor growth—highlighting CXCR4 as a promising therapeutic target to counteract tumor progression in oral cancer.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1283,
+          "end": 1464,
+          "text": "the authors link CXCR4’s regulatory role in EMT to broader tumor-related processes, including signaling pathways that influence cancer cell survival, progression, and immune escape."
+        }
+      ]
+    },
+    {
+      "paper_id": "69444",
+      "claim_id": "69444:claim_1",
+      "claim": "Endothelial nitric oxide synthase (eNOS)-derived nitric oxide (NO) functions as a physiological suppressor of 26S proteasome functionality in vascular endothelial cells by increasing O-GlcNAc modification of the Rpt2 subunit of the proteasome regulatory complex.",
+      "paragraph_id": "69444:answer_9",
+      "paragraph": "\nSummary: Nitric oxide, 26S proteasome inhibition, and vascular endothelial cells\n\nThe supplied literature describes a proposed mechanistic link between endothelial nitric oxide (NO) signaling and inhibition of the 26S proteasome in vascular endothelial cells. However, the principal paper supporting this mechanism, Identification of Nitric Oxide as an Endogenous Inhibitor of 26S Proteasomes in Vascular Endothelial Cells, is explicitly identified in the provided metadata as retracted. Its mechanistic conclusions therefore should not be treated as established evidence.\n\nThe retracted study proposed that endothelial nitric oxide synthase (eNOS)-derived NO acts as an endogenous suppressor of 26S proteasome function. According to its reported model, NO promotes O-GlcNAc transferase (OGT)-dependent O-GlcNAcylation of Rpt2, an ATPase subunit of the 19S regulatory particle. This modification was associated with reduced proteasomal protease activity and altered association of the 19S regulatory particle with the 20S core, ultimately decreasing overall 26S proteasome functionality. Experiments involving NO donors or eNOS activation were reported to reduce chymotrypsin-like proteasome activity and increase accumulation of proteasome reporter proteins. Conversely, OGT knockdown or overexpression of the O-GlcNAc-removing enzyme OGA was reported to reverse these effects. The paper also reported that eNOS-knockout mice exhibited increased aortic 26S proteasome activity and decreased Rpt2 O-GlcNAcylation, which was presented as in vivo support for the pathway.\n\nOther studies in the supplied context support the broader importance of eNOS/NO signaling in endothelial physiology, but they do not independently establish the specific NO → OGT → Rpt2 O-GlcNAcylation → 26S proteasome inhibition mechanism. For example, endothelial NO production is influenced by VEGF/eNOS phosphorylation, Rho/ROCK-Akt signaling, caveolin-1, BRG1/PR65A signaling, and metabolic or inflammatory conditions. Conversely, proteasome inhibition with MG132 has been associated with reduced eNOS expression and NO production in endothelial progenitor cells, indicating potentially complex and bidirectional relationships between NO signaling and proteostasis.\n\nOverall conclusion: A specific mechanism in which eNOS-derived NO inhibits the endothelial 26S proteasome through OGT-mediated O-GlcNAcylation of Rpt2 was reported, but the source establishing this mechanism has been retracted. Consequently, this pathway should be regarded as an unsupported or unconfirmed hypothesis rather than a reliable biological conclusion unless it has been independently reproduced by non-retracted research. The broader role of NO in regulating vascular endothelial signaling and function remains supported by the other studies provided, but these studies should not be used to validate the retracted proteasome-specific findings.\n",
+      "used": 1,
+      "spans": [
+        {
+          "start": 609,
+          "end": 720,
+          "text": "endothelial nitric oxide synthase (eNOS)-derived NO acts as an endogenous suppressor of 26S proteasome function"
+        }
+      ]
+    },
+    {
+      "paper_id": "69444",
+      "claim_id": "69444:claim_2",
+      "claim": "The suppression of 26S proteasome functionality by eNOS-derived NO is mediated through O-GlcNAc transferase (OGT), which catalyzes the O-GlcNAcylation of Rpt2, and this effect is reversed by O-GlcNAcase (OGA) overexpression or OGT knockdown.",
+      "paragraph_id": "69444:answer_9",
+      "paragraph": "\nSummary: Nitric oxide, 26S proteasome inhibition, and vascular endothelial cells\n\nThe supplied literature describes a proposed mechanistic link between endothelial nitric oxide (NO) signaling and inhibition of the 26S proteasome in vascular endothelial cells. However, the principal paper supporting this mechanism, Identification of Nitric Oxide as an Endogenous Inhibitor of 26S Proteasomes in Vascular Endothelial Cells, is explicitly identified in the provided metadata as retracted. Its mechanistic conclusions therefore should not be treated as established evidence.\n\nThe retracted study proposed that endothelial nitric oxide synthase (eNOS)-derived NO acts as an endogenous suppressor of 26S proteasome function. According to its reported model, NO promotes O-GlcNAc transferase (OGT)-dependent O-GlcNAcylation of Rpt2, an ATPase subunit of the 19S regulatory particle. This modification was associated with reduced proteasomal protease activity and altered association of the 19S regulatory particle with the 20S core, ultimately decreasing overall 26S proteasome functionality. Experiments involving NO donors or eNOS activation were reported to reduce chymotrypsin-like proteasome activity and increase accumulation of proteasome reporter proteins. Conversely, OGT knockdown or overexpression of the O-GlcNAc-removing enzyme OGA was reported to reverse these effects. The paper also reported that eNOS-knockout mice exhibited increased aortic 26S proteasome activity and decreased Rpt2 O-GlcNAcylation, which was presented as in vivo support for the pathway.\n\nOther studies in the supplied context support the broader importance of eNOS/NO signaling in endothelial physiology, but they do not independently establish the specific NO → OGT → Rpt2 O-GlcNAcylation → 26S proteasome inhibition mechanism. For example, endothelial NO production is influenced by VEGF/eNOS phosphorylation, Rho/ROCK-Akt signaling, caveolin-1, BRG1/PR65A signaling, and metabolic or inflammatory conditions. Conversely, proteasome inhibition with MG132 has been associated with reduced eNOS expression and NO production in endothelial progenitor cells, indicating potentially complex and bidirectional relationships between NO signaling and proteostasis.\n\nOverall conclusion: A specific mechanism in which eNOS-derived NO inhibits the endothelial 26S proteasome through OGT-mediated O-GlcNAcylation of Rpt2 was reported, but the source establishing this mechanism has been retracted. Consequently, this pathway should be regarded as an unsupported or unconfirmed hypothesis rather than a reliable biological conclusion unless it has been independently reproduced by non-retracted research. The broader role of NO in regulating vascular endothelial signaling and function remains supported by the other studies provided, but these studies should not be used to validate the retracted proteasome-specific findings.\n",
+      "used": 1,
+      "spans": [
+        {
+          "start": 755,
+          "end": 827,
+          "text": "NO promotes O-GlcNAc transferase (OGT)-dependent O-GlcNAcylation of Rpt2"
+        },
+        {
+          "start": 1261,
+          "end": 1379,
+          "text": "Conversely, OGT knockdown or overexpression of the O-GlcNAc-removing enzyme OGA was reported to reverse these effects."
+        }
+      ]
+    },
+    {
+      "paper_id": "69444",
+      "claim_id": "69444:claim_3",
+      "claim": "In eNOS knockout mice, the absence of eNOS results in enhanced 26S proteasome activity, reduced Rpt2 O-GlcNAcylation, and increased proteasome functionality in aortic tissues, indicating the regulatory role of eNOS-derived NO in proteasome activity.",
+      "paragraph_id": "69444:answer_9",
+      "paragraph": "\nSummary: Nitric oxide, 26S proteasome inhibition, and vascular endothelial cells\n\nThe supplied literature describes a proposed mechanistic link between endothelial nitric oxide (NO) signaling and inhibition of the 26S proteasome in vascular endothelial cells. However, the principal paper supporting this mechanism, Identification of Nitric Oxide as an Endogenous Inhibitor of 26S Proteasomes in Vascular Endothelial Cells, is explicitly identified in the provided metadata as retracted. Its mechanistic conclusions therefore should not be treated as established evidence.\n\nThe retracted study proposed that endothelial nitric oxide synthase (eNOS)-derived NO acts as an endogenous suppressor of 26S proteasome function. According to its reported model, NO promotes O-GlcNAc transferase (OGT)-dependent O-GlcNAcylation of Rpt2, an ATPase subunit of the 19S regulatory particle. This modification was associated with reduced proteasomal protease activity and altered association of the 19S regulatory particle with the 20S core, ultimately decreasing overall 26S proteasome functionality. Experiments involving NO donors or eNOS activation were reported to reduce chymotrypsin-like proteasome activity and increase accumulation of proteasome reporter proteins. Conversely, OGT knockdown or overexpression of the O-GlcNAc-removing enzyme OGA was reported to reverse these effects. The paper also reported that eNOS-knockout mice exhibited increased aortic 26S proteasome activity and decreased Rpt2 O-GlcNAcylation, which was presented as in vivo support for the pathway.\n\nOther studies in the supplied context support the broader importance of eNOS/NO signaling in endothelial physiology, but they do not independently establish the specific NO → OGT → Rpt2 O-GlcNAcylation → 26S proteasome inhibition mechanism. For example, endothelial NO production is influenced by VEGF/eNOS phosphorylation, Rho/ROCK-Akt signaling, caveolin-1, BRG1/PR65A signaling, and metabolic or inflammatory conditions. Conversely, proteasome inhibition with MG132 has been associated with reduced eNOS expression and NO production in endothelial progenitor cells, indicating potentially complex and bidirectional relationships between NO signaling and proteostasis.\n\nOverall conclusion: A specific mechanism in which eNOS-derived NO inhibits the endothelial 26S proteasome through OGT-mediated O-GlcNAcylation of Rpt2 was reported, but the source establishing this mechanism has been retracted. Consequently, this pathway should be regarded as an unsupported or unconfirmed hypothesis rather than a reliable biological conclusion unless it has been independently reproduced by non-retracted research. The broader role of NO in regulating vascular endothelial signaling and function remains supported by the other studies provided, but these studies should not be used to validate the retracted proteasome-specific findings.\n",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1409,
+          "end": 1513,
+          "text": "eNOS-knockout mice exhibited increased aortic 26S proteasome activity and decreased Rpt2 O-GlcNAcylation"
+        }
+      ]
+    },
+    {
+      "paper_id": "69444",
+      "claim_id": "69444:claim_4",
+      "claim": "NO donors and eNOS activation reduce 26S proteasome chymotrypsin-like activity and increase the accumulation of 26S proteasome reporter proteins, demonstrating the inhibitory effect of NO on proteasome functionality.",
+      "paragraph_id": "69444:answer_9",
+      "paragraph": "\nSummary: Nitric oxide, 26S proteasome inhibition, and vascular endothelial cells\n\nThe supplied literature describes a proposed mechanistic link between endothelial nitric oxide (NO) signaling and inhibition of the 26S proteasome in vascular endothelial cells. However, the principal paper supporting this mechanism, Identification of Nitric Oxide as an Endogenous Inhibitor of 26S Proteasomes in Vascular Endothelial Cells, is explicitly identified in the provided metadata as retracted. Its mechanistic conclusions therefore should not be treated as established evidence.\n\nThe retracted study proposed that endothelial nitric oxide synthase (eNOS)-derived NO acts as an endogenous suppressor of 26S proteasome function. According to its reported model, NO promotes O-GlcNAc transferase (OGT)-dependent O-GlcNAcylation of Rpt2, an ATPase subunit of the 19S regulatory particle. This modification was associated with reduced proteasomal protease activity and altered association of the 19S regulatory particle with the 20S core, ultimately decreasing overall 26S proteasome functionality. Experiments involving NO donors or eNOS activation were reported to reduce chymotrypsin-like proteasome activity and increase accumulation of proteasome reporter proteins. Conversely, OGT knockdown or overexpression of the O-GlcNAc-removing enzyme OGA was reported to reverse these effects. The paper also reported that eNOS-knockout mice exhibited increased aortic 26S proteasome activity and decreased Rpt2 O-GlcNAcylation, which was presented as in vivo support for the pathway.\n\nOther studies in the supplied context support the broader importance of eNOS/NO signaling in endothelial physiology, but they do not independently establish the specific NO → OGT → Rpt2 O-GlcNAcylation → 26S proteasome inhibition mechanism. For example, endothelial NO production is influenced by VEGF/eNOS phosphorylation, Rho/ROCK-Akt signaling, caveolin-1, BRG1/PR65A signaling, and metabolic or inflammatory conditions. Conversely, proteasome inhibition with MG132 has been associated with reduced eNOS expression and NO production in endothelial progenitor cells, indicating potentially complex and bidirectional relationships between NO signaling and proteostasis.\n\nOverall conclusion: A specific mechanism in which eNOS-derived NO inhibits the endothelial 26S proteasome through OGT-mediated O-GlcNAcylation of Rpt2 was reported, but the source establishing this mechanism has been retracted. Consequently, this pathway should be regarded as an unsupported or unconfirmed hypothesis rather than a reliable biological conclusion unless it has been independently reproduced by non-retracted research. The broader role of NO in regulating vascular endothelial signaling and function remains supported by the other studies provided, but these studies should not be used to validate the retracted proteasome-specific findings.\n",
+      "used": 1,
+      "spans": [
+        {
+          "start": 1089,
+          "end": 1260,
+          "text": "Experiments involving NO donors or eNOS activation were reported to reduce chymotrypsin-like proteasome activity and increase accumulation of proteasome reporter proteins."
+        }
+      ]
+    },
+    {
+      "paper_id": "69444",
+      "claim_id": "69444:claim_5",
+      "claim": "The regulatory mechanism of 26S proteasome suppression by eNOS-derived NO involves a metabolic sensor pathway where OGT-dependent O-GlcNAcylation of Rpt2 links NO signaling to proteasome activity modulation.",
+      "paragraph_id": "69444:answer_9",
+      "paragraph": "\nSummary: Nitric oxide, 26S proteasome inhibition, and vascular endothelial cells\n\nThe supplied literature describes a proposed mechanistic link between endothelial nitric oxide (NO) signaling and inhibition of the 26S proteasome in vascular endothelial cells. However, the principal paper supporting this mechanism, Identification of Nitric Oxide as an Endogenous Inhibitor of 26S Proteasomes in Vascular Endothelial Cells, is explicitly identified in the provided metadata as retracted. Its mechanistic conclusions therefore should not be treated as established evidence.\n\nThe retracted study proposed that endothelial nitric oxide synthase (eNOS)-derived NO acts as an endogenous suppressor of 26S proteasome function. According to its reported model, NO promotes O-GlcNAc transferase (OGT)-dependent O-GlcNAcylation of Rpt2, an ATPase subunit of the 19S regulatory particle. This modification was associated with reduced proteasomal protease activity and altered association of the 19S regulatory particle with the 20S core, ultimately decreasing overall 26S proteasome functionality. Experiments involving NO donors or eNOS activation were reported to reduce chymotrypsin-like proteasome activity and increase accumulation of proteasome reporter proteins. Conversely, OGT knockdown or overexpression of the O-GlcNAc-removing enzyme OGA was reported to reverse these effects. The paper also reported that eNOS-knockout mice exhibited increased aortic 26S proteasome activity and decreased Rpt2 O-GlcNAcylation, which was presented as in vivo support for the pathway.\n\nOther studies in the supplied context support the broader importance of eNOS/NO signaling in endothelial physiology, but they do not independently establish the specific NO → OGT → Rpt2 O-GlcNAcylation → 26S proteasome inhibition mechanism. For example, endothelial NO production is influenced by VEGF/eNOS phosphorylation, Rho/ROCK-Akt signaling, caveolin-1, BRG1/PR65A signaling, and metabolic or inflammatory conditions. Conversely, proteasome inhibition with MG132 has been associated with reduced eNOS expression and NO production in endothelial progenitor cells, indicating potentially complex and bidirectional relationships between NO signaling and proteostasis.\n\nOverall conclusion: A specific mechanism in which eNOS-derived NO inhibits the endothelial 26S proteasome through OGT-mediated O-GlcNAcylation of Rpt2 was reported, but the source establishing this mechanism has been retracted. Consequently, this pathway should be regarded as an unsupported or unconfirmed hypothesis rather than a reliable biological conclusion unless it has been independently reproduced by non-retracted research. The broader role of NO in regulating vascular endothelial signaling and function remains supported by the other studies provided, but these studies should not be used to validate the retracted proteasome-specific findings.\n",
+      "used": 1,
+      "spans": [
+        {
+          "start": 755,
+          "end": 827,
+          "text": "NO promotes O-GlcNAc transferase (OGT)-dependent O-GlcNAcylation of Rpt2"
+        },
+        {
+          "start": 1742,
+          "end": 1811,
+          "text": "NO → OGT → Rpt2 O-GlcNAcylation → 26S proteasome inhibition mechanism"
+        }
+      ]
+    },
+    {
+      "paper_id": "69627",
+      "claim_id": "69627:claim_1",
+      "claim": "Vitamin D deficiency is associated with a threefold increased risk of developing gestational hypertension, while a normal vitamin D status is protective against this condition.",
+      "paragraph_id": "69627:answer_4",
+      "paragraph": "**Summary:**\n\nA case-control study investigated the association between vitamin D receptor (VDR) polymorphisms and gestational hypertension in pregnant women. The study found that:\n\n* Vitamin D deficiency is prevalent in both gestational hypertension and normotensive pregnant women, with a higher frequency in gestational hypertension cases.\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes, while a normal vitamin D status mitigates this risk.\n* Genotyping for VDR polymorphisms in pregnant women may enable tailored vitamin D supplementation strategies to reduce the risk of gestational hypertension.\n\nThe study suggests that vitamin D receptor polymorphisms play a significant role in the development of gestational hypertension, and that vitamin D supplementation may be a useful preventive measure for this condition.\n\n**Key Findings:**\n\n* Vitamin D deficiency is prevalent in gestational hypertension cases (81%) compared to normotensive pregnant women (69%).\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes.\n* Vitamin D supplementation may be a useful preventive measure for gestational hypertension.\n\n**Conclusion:**\n\nThe study highlights the importance of vitamin D receptor polymorphisms in the development of gestational hypertension and the potential role of vitamin D supplementation in preventing this condition. Further research is needed to confirm these findings and to investigate the mechanisms underlying the association between vitamin D receptor polymorphisms and gestational hypertension.",
+      "used": 0,
+      "spans": []
+    },
+    {
+      "paper_id": "69627",
+      "claim_id": "69627:claim_2",
+      "claim": "The VDR FF/bB haplotype is associated with a twofold increased risk of developing gestational hypertension compared to other haplotypes.",
+      "paragraph_id": "69627:answer_4",
+      "paragraph": "**Summary:**\n\nA case-control study investigated the association between vitamin D receptor (VDR) polymorphisms and gestational hypertension in pregnant women. The study found that:\n\n* Vitamin D deficiency is prevalent in both gestational hypertension and normotensive pregnant women, with a higher frequency in gestational hypertension cases.\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes, while a normal vitamin D status mitigates this risk.\n* Genotyping for VDR polymorphisms in pregnant women may enable tailored vitamin D supplementation strategies to reduce the risk of gestational hypertension.\n\nThe study suggests that vitamin D receptor polymorphisms play a significant role in the development of gestational hypertension, and that vitamin D supplementation may be a useful preventive measure for this condition.\n\n**Key Findings:**\n\n* Vitamin D deficiency is prevalent in gestational hypertension cases (81%) compared to normotensive pregnant women (69%).\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes.\n* Vitamin D supplementation may be a useful preventive measure for gestational hypertension.\n\n**Conclusion:**\n\nThe study highlights the importance of vitamin D receptor polymorphisms in the development of gestational hypertension and the potential role of vitamin D supplementation in preventing this condition. Further research is needed to confirm these findings and to investigate the mechanisms underlying the association between vitamin D receptor polymorphisms and gestational hypertension.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 345,
+          "end": 467,
+          "text": "Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension."
+        }
+      ]
+    },
+    {
+      "paper_id": "69627",
+      "claim_id": "69627:claim_3",
+      "claim": "Hypovitaminosis D, defined as vitamin D levels below 30 ng/ml, is prevalent in both gestational hypertension and normotensive pregnant women, but vitamin D deficiency (<10 ng/ml) is more frequent in gestational hypertension cases.",
+      "paragraph_id": "69627:answer_4",
+      "paragraph": "**Summary:**\n\nA case-control study investigated the association between vitamin D receptor (VDR) polymorphisms and gestational hypertension in pregnant women. The study found that:\n\n* Vitamin D deficiency is prevalent in both gestational hypertension and normotensive pregnant women, with a higher frequency in gestational hypertension cases.\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes, while a normal vitamin D status mitigates this risk.\n* Genotyping for VDR polymorphisms in pregnant women may enable tailored vitamin D supplementation strategies to reduce the risk of gestational hypertension.\n\nThe study suggests that vitamin D receptor polymorphisms play a significant role in the development of gestational hypertension, and that vitamin D supplementation may be a useful preventive measure for this condition.\n\n**Key Findings:**\n\n* Vitamin D deficiency is prevalent in gestational hypertension cases (81%) compared to normotensive pregnant women (69%).\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes.\n* Vitamin D supplementation may be a useful preventive measure for gestational hypertension.\n\n**Conclusion:**\n\nThe study highlights the importance of vitamin D receptor polymorphisms in the development of gestational hypertension and the potential role of vitamin D supplementation in preventing this condition. Further research is needed to confirm these findings and to investigate the mechanisms underlying the association between vitamin D receptor polymorphisms and gestational hypertension.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 184,
+          "end": 342,
+          "text": "Vitamin D deficiency is prevalent in both gestational hypertension and normotensive pregnant women, with a higher frequency in gestational hypertension cases."
+        }
+      ]
+    },
+    {
+      "paper_id": "69627",
+      "claim_id": "69627:claim_4",
+      "claim": "A normal vitamin D status mitigates the negative effects of unfavorable VDR FokI/BsmI haplotypes on the risk of gestational hypertension, while vitamin D deficiency exacerbates this risk.",
+      "paragraph_id": "69627:answer_4",
+      "paragraph": "**Summary:**\n\nA case-control study investigated the association between vitamin D receptor (VDR) polymorphisms and gestational hypertension in pregnant women. The study found that:\n\n* Vitamin D deficiency is prevalent in both gestational hypertension and normotensive pregnant women, with a higher frequency in gestational hypertension cases.\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes, while a normal vitamin D status mitigates this risk.\n* Genotyping for VDR polymorphisms in pregnant women may enable tailored vitamin D supplementation strategies to reduce the risk of gestational hypertension.\n\nThe study suggests that vitamin D receptor polymorphisms play a significant role in the development of gestational hypertension, and that vitamin D supplementation may be a useful preventive measure for this condition.\n\n**Key Findings:**\n\n* Vitamin D deficiency is prevalent in gestational hypertension cases (81%) compared to normotensive pregnant women (69%).\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes.\n* Vitamin D supplementation may be a useful preventive measure for gestational hypertension.\n\n**Conclusion:**\n\nThe study highlights the importance of vitamin D receptor polymorphisms in the development of gestational hypertension and the potential role of vitamin D supplementation in preventing this condition. Further research is needed to confirm these findings and to investigate the mechanisms underlying the association between vitamin D receptor polymorphisms and gestational hypertension.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 470,
+          "end": 644,
+          "text": "Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes, while a normal vitamin D status mitigates this risk."
+        }
+      ]
+    },
+    {
+      "paper_id": "69627",
+      "claim_id": "69627:claim_5",
+      "claim": "Genotyping for VDR polymorphisms in pregnant women may enable tailored vitamin D supplementation strategies to reduce the risk of gestational hypertension.",
+      "paragraph_id": "69627:answer_4",
+      "paragraph": "**Summary:**\n\nA case-control study investigated the association between vitamin D receptor (VDR) polymorphisms and gestational hypertension in pregnant women. The study found that:\n\n* Vitamin D deficiency is prevalent in both gestational hypertension and normotensive pregnant women, with a higher frequency in gestational hypertension cases.\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes, while a normal vitamin D status mitigates this risk.\n* Genotyping for VDR polymorphisms in pregnant women may enable tailored vitamin D supplementation strategies to reduce the risk of gestational hypertension.\n\nThe study suggests that vitamin D receptor polymorphisms play a significant role in the development of gestational hypertension, and that vitamin D supplementation may be a useful preventive measure for this condition.\n\n**Key Findings:**\n\n* Vitamin D deficiency is prevalent in gestational hypertension cases (81%) compared to normotensive pregnant women (69%).\n* Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.\n* Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes.\n* Vitamin D supplementation may be a useful preventive measure for gestational hypertension.\n\n**Conclusion:**\n\nThe study highlights the importance of vitamin D receptor polymorphisms in the development of gestational hypertension and the potential role of vitamin D supplementation in preventing this condition. Further research is needed to confirm these findings and to investigate the mechanisms underlying the association between vitamin D receptor polymorphisms and gestational hypertension.",
+      "used": 1,
+      "spans": [
+        {
+          "start": 647,
+          "end": 802,
+          "text": "Genotyping for VDR polymorphisms in pregnant women may enable tailored vitamin D supplementation strategies to reduce the risk of gestational hypertension."
+        }
+      ]
+    }
+  ]
+}

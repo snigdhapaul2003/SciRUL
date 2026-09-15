@@ -1,0 +1,1049 @@
+{
+  "file": "E:\\Unlearning_v2\\Reward_model_design\\claims_and_answers_judged.json",
+  "bytes": 457537,
+  "root_type": "dict",
+  "paths": {
+    "$": {
+      "types": {
+        "dict": 1
+      },
+      "examples": []
+    },
+    "$.judge_statistics": {
+      "types": {
+        "dict": 1
+      },
+      "examples": []
+    },
+    "$.judge_statistics.answers_judged": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        99
+      ]
+    },
+    "$.judge_statistics.answers_not_using_retracted_claims": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        0
+      ]
+    },
+    "$.judge_statistics.answers_using_retracted_claims": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        99
+      ]
+    },
+    "$.judge_statistics.identified_spans": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        467
+      ]
+    },
+    "$.judge_statistics.judge_model": {
+      "types": {
+        "str": 1
+      },
+      "examples": [
+        "azure/gpt-5.5"
+      ]
+    },
+    "$.samples": {
+      "types": {
+        "list": 1
+      },
+      "examples": []
+    },
+    "$.samples[]": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].anchor_claims": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].anchor_claims[]": {
+      "types": {
+        "dict": 55
+      },
+      "examples": []
+    },
+    "$.samples[].anchor_claims[].text": {
+      "types": {
+        "str": 55
+      },
+      "examples": [
+        "Vitamin D deficiency is associated with a threefold increased risk of developing gestational hypertension, while a normal vitamin D status is protective against",
+        "The VDR FF/bB haplotype is associated with a twofold increased risk of developing gestational hypertension compared to other haplotypes.",
+        "Hypovitaminosis D, defined as vitamin D levels below 30 ng/ml, is prevalent in both gestational hypertension and normotensive pregnant women, but vitamin D defi"
+      ]
+    },
+    "$.samples[].answer_models": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].answer_models.answer_1": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "olmo_3_7B_Instruct",
+        "olmo_3_7B_Instruct",
+        "olmo_3_7B_Instruct"
+      ]
+    },
+    "$.samples[].answer_models.answer_2": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "olmo_3_7B_Instruct",
+        "olmo_3_7B_Instruct",
+        "olmo_3_7B_Instruct"
+      ]
+    },
+    "$.samples[].answer_models.answer_3": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "olmo_3_7B_Instruct",
+        "olmo_3_7B_Instruct",
+        "olmo_3_7B_Instruct"
+      ]
+    },
+    "$.samples[].answer_models.answer_4": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "llama_3_8B_Instruct",
+        "llama_3_8B_Instruct",
+        "llama_3_8B_Instruct"
+      ]
+    },
+    "$.samples[].answer_models.answer_5": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "llama_3_8B_Instruct",
+        "llama_3_8B_Instruct",
+        "llama_3_8B_Instruct"
+      ]
+    },
+    "$.samples[].answer_models.answer_6": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "llama_3_8B_Instruct",
+        "llama_3_8B_Instruct",
+        "llama_3_8B_Instruct"
+      ]
+    },
+    "$.samples[].answer_models.answer_7": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "gpt-5.5",
+        "gpt-5.5",
+        "gpt-5.5"
+      ]
+    },
+    "$.samples[].answer_models.answer_8": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "gpt-5.5",
+        "gpt-5.5",
+        "gpt-5.5"
+      ]
+    },
+    "$.samples[].answer_models.answer_9": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "gpt-5.5",
+        "gpt-5.5",
+        "gpt-5.5"
+      ]
+    },
+    "$.samples[].answers": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].answers.answer_1": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "**Summary:**\n\nA case-control study on Vitamin-D Receptor (VDR) gene single nucleotide polymorphisms and their association with the development of gestational hy",
+        "**Summary: Nitric Oxide as an Endogenous Inhibitor of the 26S Proteasome in Vascular Endothelial Cells**\n\nNitric oxide (NO), generated endogenously by endotheli",
+        "Certainly! Here is a concise, integrated summary based on the provided context related to the topic of **CXCR4 silencing and its effects on epithelial-mesenchym"
+      ]
+    },
+    "$.samples[].answers.answer_2": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "Certainly! Here is a **summary focused on the topic: \"Vitamin-D receptor (VDR) single nucleotide polymorphisms and gestational hypertension in a case-control st",
+        "**Summary: Nitric Oxide as an Endogenous Inhibitor of the 26S Proteasome in Vascular Endothelial Cells**\n\nThis work, now retracted, investigated the role of nit",
+        "**Summary: CXCR4 Silencing Inhibits Epithelial-Mesenchymal Transition (EMT) in Oral Squamous Cell Carcinoma (OSCC)**\n\nThis study investigates the role of the C-"
+      ]
+    },
+    "$.samples[].answers.answer_3": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "Certainly! Here is a concise summary based on the topic “Vitamin-D receptor polymorphisms and gestational hypertension: a case-control study” using the provided",
+        "Certainly! Below is a concise summary based on the provided literature entries regarding the relationship between **nitric oxide (NO)** and **26S proteasome fun",
+        "**Summary: CXCR4 Silencing Inhibits Epithelial-Mesenchymal Transition (EMT) in Oral Squamous Cell Carcinoma (OSCC)**\n\nMultiple lines of evidence indicate that t"
+      ]
+    },
+    "$.samples[].answers.answer_4": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "**Summary:**\n\nA case-control study investigated the association between vitamin D receptor (VDR) polymorphisms and gestational hypertension in pregnant women. T",
+        "**Summary: Nitric Oxide's Role in Inhibiting 26S Proteasomes in Vascular Endothelial Cells**\n\nNitric oxide (NO) plays a significant role in vascular endothelial",
+        "**CXCR4 Silencing Inhibits Epithelial-Mesenchymal Transition in Oral Squamous Cell Carcinoma**\n\nCXCR4, a chemokine receptor, plays a crucial role in the progres"
+      ]
+    },
+    "$.samples[].answers.answer_5": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "**Summary of Vitamin-D Receptor Polymorphisms in Gestational Hypertension Case-Control Study**\n\nA case-control study investigated the association between vitami",
+        "Nitric oxide (NO) has been identified as an endogenous inhibitor of 26S proteasomes in vascular endothelial cells. Research suggests that endothelial nitric oxi",
+        "CXCR4 silencing has been identified as a potential therapeutic strategy for inhibiting epithelial-mesenchymal transition (EMT) in oral squamous cell carcinoma ("
+      ]
+    },
+    "$.samples[].answers.answer_6": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "There is no original paper found in the context for \"Vitamin-D receptor polymorphisms gestational hypertension case-control study.\" However, the retracted study",
+        "Nitric oxide (NO) has been identified as an endogenous inhibitor of the 26S proteasome in vascular endothelial cells. The 26S proteasome is a large protein comp",
+        "Retraction of papers not provided above. \n\nHowever, using the topic \"CXCR4 silencing epithelial-mesenchymal transition oral squamous cell carcinoma\" I can still"
+      ]
+    },
+    "$.samples[].answers.answer_7": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "\nSummary: Vitamin-D Receptor Polymorphisms and Gestational Hypertension\n\nThe case-control study on vitamin-D receptor (VDR) polymorphisms and gestational hypert",
+        "\nSummary: Nitric Oxide-Mediated 26S Proteasome Inhibition in Vascular Endothelial Cells\n\nThe provided literature describes a proposed regulatory relationship be",
+        "\nSummary: CXCR4 Silencing and EMT in Oral Squamous Cell Carcinoma\n\nCXCR4 plays an important role in promoting epithelial-mesenchymal transition (EMT), invasion,"
+      ]
+    },
+    "$.samples[].answers.answer_8": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "\nHere is a concise synthesis of the supplied evidence, with the retraction explicitly accounted for so that findings from the withdrawn study are not treated as",
+        "\nSummary: Nitric Oxide, 26S Proteasome Inhibition, and Vascular Endothelial Cells\n\nNitric oxide (NO) is an important regulator of vascular endothelial function,",
+        "\nSummary: CXCR4 Silencing, EMT, and Oral Squamous Cell Carcinoma\n\nCXCR4 has been implicated in the regulation of epithelial-mesenchymal transition (EMT) and met"
+      ]
+    },
+    "$.samples[].answers.answer_9": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "\nSummary: Vitamin D Receptor Polymorphisms and Gestational Hypertension\n\nThe case-control study “Role of Vitamin-D Receptor (VDR) single nucleotide polymorphism",
+        "\nSummary: Nitric oxide, 26S proteasome inhibition, and vascular endothelial cells\n\nThe supplied literature describes a proposed mechanistic link between endothe",
+        "\nSummary\n\nCXCR4 has been investigated as a regulator of epithelial-mesenchymal transition (EMT) and metastatic behavior in oral squamous cell carcinoma (OSCC). "
+      ]
+    },
+    "$.samples[].judgments": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_1": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_1.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_1.spans[]": {
+      "types": {
+        "dict": 53
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_1.spans[].claim_numbers": {
+      "types": {
+        "list": 53
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_1.spans[].claim_numbers[]": {
+      "types": {
+        "int": 56
+      },
+      "examples": [
+        2,
+        1,
+        3
+      ]
+    },
+    "$.samples[].judgments.answer_1.spans[].end": {
+      "types": {
+        "int": 53
+      },
+      "examples": [
+        519,
+        811,
+        907
+      ]
+    },
+    "$.samples[].judgments.answer_1.spans[].start": {
+      "types": {
+        "int": 53
+      },
+      "examples": [
+        423,
+        535,
+        813
+      ]
+    },
+    "$.samples[].judgments.answer_1.spans[].text": {
+      "types": {
+        "str": 53
+      },
+      "examples": [
+        "the VDR FF/bB haplotype is associated with a twofold increased risk compared to other haplotypes",
+        "vitamin D deficiency (defined as serum 25-hydroxyvitamin D levels below 30 ng/mL, with even lower deficiency (<10 ng/mL) seen more frequently in women with gest",
+        "Normal vitamin D status was identified as a protective factor against gestational hypertension"
+      ]
+    },
+    "$.samples[].judgments.answer_1.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].judgments.answer_2": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_2.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_2.spans[]": {
+      "types": {
+        "dict": 51
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_2.spans[].claim_numbers": {
+      "types": {
+        "list": 51
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_2.spans[].claim_numbers[]": {
+      "types": {
+        "int": 53
+      },
+      "examples": [
+        1,
+        3,
+        2
+      ]
+    },
+    "$.samples[].judgments.answer_2.spans[].end": {
+      "types": {
+        "int": 51
+      },
+      "examples": [
+        890,
+        1046,
+        1583
+      ]
+    },
+    "$.samples[].judgments.answer_2.spans[].start": {
+      "types": {
+        "int": 51
+      },
+      "examples": [
+        638,
+        905,
+        1440
+      ]
+    },
+    "$.samples[].judgments.answer_2.spans[].text": {
+      "types": {
+        "str": 51
+      },
+      "examples": [
+        "**vitamin D deficiency** at delivery—defined as serum 25-hydroxyvitamin D levels below 30 ng/ml—was significantly associated with a **threefold increased risk o",
+        "vitamin D deficiency (defined as levels below 10 ng/ml) was more common in women with gestational hypertension than in normotensive controls.",
+        "with some haplotypes—such as the \"ff/bB\" haplotype—associated with a **twofold increased risk of gestational hypertension** compared to others."
+      ]
+    },
+    "$.samples[].judgments.answer_2.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].judgments.answer_3": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_3.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_3.spans[]": {
+      "types": {
+        "dict": 49
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_3.spans[].claim_numbers": {
+      "types": {
+        "list": 49
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_3.spans[].claim_numbers[]": {
+      "types": {
+        "int": 55
+      },
+      "examples": [
+        2,
+        3,
+        4
+      ]
+    },
+    "$.samples[].judgments.answer_3.spans[].end": {
+      "types": {
+        "int": 49
+      },
+      "examples": [
+        1094,
+        1321,
+        1617
+      ]
+    },
+    "$.samples[].judgments.answer_3.spans[].start": {
+      "types": {
+        "int": 49
+      },
+      "examples": [
+        1040,
+        1193,
+        1426
+      ]
+    },
+    "$.samples[].judgments.answer_3.spans[].text": {
+      "types": {
+        "str": 49
+      },
+      "examples": [
+        "the FF/bB haplotype, are associated with a higher risk",
+        "**hypovitaminosis D (low 25(OH)D levels)** is commonly observed in both pregnant women with and without gestational hypertension",
+        "**unfavorable VDR genotypes may potentiate this risk if vitamin D status is low**, while adequate vitamin D status appears to attenuate the adverse effects of r"
+      ]
+    },
+    "$.samples[].judgments.answer_3.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].judgments.answer_4": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_4.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_4.spans[]": {
+      "types": {
+        "dict": 53
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_4.spans[].claim_numbers": {
+      "types": {
+        "list": 53
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_4.spans[].claim_numbers[]": {
+      "types": {
+        "int": 53
+      },
+      "examples": [
+        3,
+        2,
+        4
+      ]
+    },
+    "$.samples[].judgments.answer_4.spans[].end": {
+      "types": {
+        "int": 53
+      },
+      "examples": [
+        342,
+        467,
+        644
+      ]
+    },
+    "$.samples[].judgments.answer_4.spans[].start": {
+      "types": {
+        "int": 53
+      },
+      "examples": [
+        184,
+        345,
+        470
+      ]
+    },
+    "$.samples[].judgments.answer_4.spans[].text": {
+      "types": {
+        "str": 53
+      },
+      "examples": [
+        "Vitamin D deficiency is prevalent in both gestational hypertension and normotensive pregnant women, with a higher frequency in gestational hypertension cases.",
+        "Vitamin D receptor FokI/BsmI haplotype is associated with a twofold increased risk of developing gestational hypertension.",
+        "Vitamin D deficiency exacerbates the risk of gestational hypertension in women with unfavorable VDR FokI/BsmI haplotypes, while a normal vitamin D status mitiga"
+      ]
+    },
+    "$.samples[].judgments.answer_4.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].judgments.answer_5": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_5.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_5.spans[]": {
+      "types": {
+        "dict": 55
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_5.spans[].claim_numbers": {
+      "types": {
+        "list": 55
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_5.spans[].claim_numbers[]": {
+      "types": {
+        "int": 57
+      },
+      "examples": [
+        3,
+        2,
+        4
+      ]
+    },
+    "$.samples[].judgments.answer_5.spans[].end": {
+      "types": {
+        "int": 55
+      },
+      "examples": [
+        360,
+        588,
+        785
+      ]
+    },
+    "$.samples[].judgments.answer_5.spans[].start": {
+      "types": {
+        "int": 55
+      },
+      "examples": [
+        288,
+        455,
+        598
+      ]
+    },
+    "$.samples[].judgments.answer_5.spans[].text": {
+      "types": {
+        "str": 55
+      },
+      "examples": [
+        "vitamin D deficiency was more frequent in gestational hypertension cases",
+        "the FF/bB haplotype was associated with a twofold increased risk of developing gestational hypertension compared to other haplotypes.",
+        "a normal vitamin D status mitigated the negative effects of unfavorable VDR FokI/BsmI haplotypes on the risk of gestational hypertension, while vitamin D defici"
+      ]
+    },
+    "$.samples[].judgments.answer_5.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].judgments.answer_6": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_6.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_6.spans[]": {
+      "types": {
+        "dict": 49
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_6.spans[].claim_numbers": {
+      "types": {
+        "list": 49
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_6.spans[].claim_numbers[]": {
+      "types": {
+        "int": 51
+      },
+      "examples": [
+        1,
+        2,
+        3
+      ]
+    },
+    "$.samples[].judgments.answer_6.spans[].end": {
+      "types": {
+        "int": 49
+      },
+      "examples": [
+        818,
+        947,
+        1092
+      ]
+    },
+    "$.samples[].judgments.answer_6.spans[].start": {
+      "types": {
+        "int": 49
+      },
+      "examples": [
+        712,
+        822,
+        951
+      ]
+    },
+    "$.samples[].judgments.answer_6.spans[].text": {
+      "types": {
+        "str": 49
+      },
+      "examples": [
+        "Vitamin D deficiency is associated with a threefold increased risk of developing gestational hypertension.",
+        "The VDR FF/bB haplotype is associated with a twofold increased risk of gestational hypertension compared to other haplotypes.",
+        "Hypovitaminosis D, defined as vitamin D levels below 30 ng/ml, is prevalent in both gestational hypertension and normotensive pregnant women."
+      ]
+    },
+    "$.samples[].judgments.answer_6.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].judgments.answer_7": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_7.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_7.spans[]": {
+      "types": {
+        "dict": 58
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_7.spans[].claim_numbers": {
+      "types": {
+        "list": 58
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_7.spans[].claim_numbers[]": {
+      "types": {
+        "int": 64
+      },
+      "examples": [
+        1,
+        3,
+        3
+      ]
+    },
+    "$.samples[].judgments.answer_7.spans[].end": {
+      "types": {
+        "int": 58
+      },
+      "examples": [
+        650,
+        786,
+        987
+      ]
+    },
+    "$.samples[].judgments.answer_7.spans[].start": {
+      "types": {
+        "int": 58
+      },
+      "examples": [
+        436,
+        651,
+        884
+      ]
+    },
+    "$.samples[].judgments.answer_7.spans[].text": {
+      "types": {
+        "str": 58
+      },
+      "examples": [
+        "vitamin D deficiency was substantially more common among women with gestational hypertension and was associated with approximately a threefold higher risk of GH",
+        "Hypovitaminosis D, defined in the study as serum vitamin D below 30 ng/mL, was common in both hypertensive and normotensive pregnancies",
+        "More severe vitamin D deficiency, however, was more frequent among women with gestational hypertension."
+      ]
+    },
+    "$.samples[].judgments.answer_7.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].judgments.answer_8": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_8.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_8.spans[]": {
+      "types": {
+        "dict": 41
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_8.spans[].claim_numbers": {
+      "types": {
+        "list": 41
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_8.spans[].claim_numbers[]": {
+      "types": {
+        "int": 53
+      },
+      "examples": [
+        1,
+        2,
+        4
+      ]
+    },
+    "$.samples[].judgments.answer_8.spans[].end": {
+      "types": {
+        "int": 41
+      },
+      "examples": [
+        824,
+        912,
+        1055
+      ]
+    },
+    "$.samples[].judgments.answer_8.spans[].start": {
+      "types": {
+        "int": 41
+      },
+      "examples": [
+        718,
+        834,
+        962
+      ]
+    },
+    "$.samples[].judgments.answer_8.spans[].text": {
+      "types": {
+        "str": 41
+      },
+      "examples": [
+        "vitamin D deficiency was associated with approximately a threefold higher risk of gestational hypertension",
+        "the FF/bB VDR haplotype was associated with roughly a twofold increase in risk",
+        "adequate vitamin D status might attenuate the risk associated with unfavorable VDR haplotypes"
+      ]
+    },
+    "$.samples[].judgments.answer_8.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].judgments.answer_9": {
+      "types": {
+        "dict": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_9.spans": {
+      "types": {
+        "list": 11
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_9.spans[]": {
+      "types": {
+        "dict": 58
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_9.spans[].claim_numbers": {
+      "types": {
+        "list": 58
+      },
+      "examples": []
+    },
+    "$.samples[].judgments.answer_9.spans[].claim_numbers[]": {
+      "types": {
+        "int": 69
+      },
+      "examples": [
+        1,
+        3,
+        2
+      ]
+    },
+    "$.samples[].judgments.answer_9.spans[].end": {
+      "types": {
+        "int": 58
+      },
+      "examples": [
+        588,
+        713,
+        870
+      ]
+    },
+    "$.samples[].judgments.answer_9.spans[].start": {
+      "types": {
+        "int": 58
+      },
+      "examples": [
+        429,
+        590,
+        745
+      ]
+    },
+    "$.samples[].judgments.answer_9.spans[].text": {
+      "types": {
+        "str": 58
+      },
+      "examples": [
+        "vitamin D deficiency was associated with approximately a threefold higher risk of gestational hypertension, whereas normal vitamin D status appeared protective",
+        "Hypovitaminosis D was common among both groups, but deficiency was more frequent among women with gestational hypertension.",
+        "the VDR FF/bB haplotype was associated with roughly twice the risk of gestational hypertension compared with other haplotypes"
+      ]
+    },
+    "$.samples[].judgments.answer_9.uses_retracted_claim": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "yes",
+        "yes",
+        "yes"
+      ]
+    },
+    "$.samples[].record_id": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "69627",
+        "69444",
+        "68910"
+      ]
+    },
+    "$.samples[].record_index": {
+      "types": {
+        "int": 11
+      },
+      "examples": [
+        12,
+        14,
+        16
+      ]
+    },
+    "$.samples[].title": {
+      "types": {
+        "str": 11
+      },
+      "examples": [
+        "Role of Vitamin-D Receptor (VDR) single nucleotide polymorphisms in gestational hypertension development: A case-control study",
+        "Identification of Nitric Oxide as an Endogenous Inhibitor of 26S Proteasomes in Vascular Endothelial Cells",
+        "Targeted silencing of CXCR4 inhibits epithelial-mesenchymal transition in oral squamous cell carcinoma"
+      ]
+    },
+    "$.statistics": {
+      "types": {
+        "dict": 1
+      },
+      "examples": []
+    },
+    "$.statistics.model_outputs_examined": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        33
+      ]
+    },
+    "$.statistics.records_with_anchor_claims": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        40
+      ]
+    },
+    "$.statistics.records_without_all_nine_answers": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        29
+      ]
+    },
+    "$.statistics.records_without_anchor_claims": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        10
+      ]
+    },
+    "$.statistics.samples_written": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        11
+      ]
+    },
+    "$.statistics.total_answers_written": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        99
+      ]
+    },
+    "$.statistics.total_input_records": {
+      "types": {
+        "int": 1
+      },
+      "examples": [
+        50
+      ]
+    }
+  }
+}

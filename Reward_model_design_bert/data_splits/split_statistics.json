@@ -1,0 +1,9 @@
+{
+  "seed": 13,
+  "records": 11,
+  "train_paragraphs": 88,
+  "test_paragraphs": 11,
+  "train_claim_paragraph_pairs": 440,
+  "test_claim_paragraph_pairs": 55,
+  "test_samples_per_record": 1
+}
