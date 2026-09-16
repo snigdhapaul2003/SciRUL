@@ -4,3 +4,5 @@ __pycache__/
 venv/
 .venv/
 Reward_model_design_bert/runs/deberta/joint_deberta.pt
+Reward_model_design_llm/runs/lora/
+Reward_model_design_llm/runs/lora_span_only

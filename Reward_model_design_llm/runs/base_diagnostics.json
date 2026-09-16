@@ -1,0 +1,103 @@
+{
+  "summary": {
+    "valid": 2,
+    "malformed_json": 1,
+    "non_verbatim_span": 3
+  },
+  "generations": [
+    {
+      "paragraph_id": "64753:answer_2",
+      "claim_id": "64753:claim_1",
+      "claim": "Amyloid-beta protein directly interacts with alpha-synuclein in the brains of patients with Lewy body disease and in transgenic mice, forming hybrid complexes that contribute to the pathogenesis of neurodegenerative disorders.",
+      "sentence": "**Mechanisms of Hybrid Oligomer Formation**\n\n- **Protein-Protein Interactions:** Aβ and α-Syn can directly interact in both in vitro and in vivo contexts.",
+      "gold_used": true,
+      "gold_spans": [
+        "Aβ and α-Syn can directly interact in both in vitro and in vivo contexts."
+      ],
+      "sample": 1,
+      "status": "valid",
+      "explanation": "strict JSON and all spans are grounded",
+      "parsed_steps": [
+        {
+          "span": "Aβ and α-Syn can directly interact in both in vitro and in vivo contexts.",
+          "relation": "infer"
+        }
+      ],
+      "raw_output": "{\n  \"steps\": [\n    {\n      \"span\": \"Aβ and α-Syn can directly interact in both in vitro and in vivo contexts.\",\n      \"relation\": \"infer\"\n    }\n  ]\n}"
+    },
+    {
+      "paragraph_id": "64753:answer_2",
+      "claim_id": "64753:claim_4",
+      "claim": "The N-terminal region of amyloid-beta interacts with both the N-terminal and C-terminal regions of alpha-synuclein, facilitating the aggregation of alpha-synuclein into higher-order oligomers such as pentamers and hexamers.",
+      "sentence": "The N-terminal region of Aβ binds to both the N- and C-terminal regions of α-Syn, facilitating the aggregation of α-Syn into higher-order oligomers (such as pentamers and hexamers), and enabling stable assembly with Aβ.\n- **Structural and Dynamic Features:** Both Aβ and α-Syn can form various oligomeric and fibrillar species under cellular conditions.",
+      "gold_used": true,
+      "gold_spans": [
+        "The N-terminal region of Aβ binds to both the N- and C-terminal regions of α-Syn, facilitating the aggregation of α-Syn into higher-order oligomers (such as pentamers and hexamers), and enabling stable assembly with Aβ."
+      ],
+      "sample": 1,
+      "status": "valid",
+      "explanation": "strict JSON and all spans are grounded",
+      "parsed_steps": [
+        {
+          "span": "The N-terminal region of Aβ binds to both the N- and C-terminal regions of α-Syn, facilitating the aggregation of α-Syn into higher-order oligomers (such as pentamers and hexamers), and enabling stable assembly with Aβ.",
+          "relation": "infer"
+        }
+      ],
+      "raw_output": "{\n  \"steps\": [\n    {\n      \"span\": \"The N-terminal region of Aβ binds to both the N- and C-terminal regions of α-Syn, facilitating the aggregation of α-Syn into higher-order oligomers (such as pentamers and hexamers), and enabling stable assembly with Aβ.\",\n      \"relation\": \"infer\"\n    }\n  ]\n}"
+    },
+    {
+      "paragraph_id": "64753:answer_2",
+      "claim_id": "64753:claim_2",
+      "claim": "Molecular dynamics simulations and in vitro studies demonstrate that amyloid-beta protein binds to alpha-synuclein monomers, dimers, and trimers, stabilizing the formation of hybrid ring-like oligomers that adopt a pore-like structure.",
+      "sentence": "In PD, α-Syn aggregation forms inclusive pathology involving motor neurons and dopamine-producing cells.\n- **Synergistic Effects:** Hybrid oligomers may combine the toxic properties of both Aβ and α-Syn, exacerbating neurodegeneration by amplifying oligomer propagation, enhancing membrane disruption, and activating inflammatory and apoptotic pathways.\n- **Therapeutic Relevance:** The formation of hybrid oligomers suggests that targeted interventions could either prevent the assembly of these complexes (e.g., inhibiting residues or interactions critical for aggregation) or disrupt their pathological functions (e.g., inhibiting their ion-channel properties or reducing their membrane affinity).\n- **Research Support:** Molecular dynamics, in vitro aggregation assays, and NMR studies have validated the binding and structural stabilization of Aβ and α-Syn into hybrid species.",
+      "gold_used": true,
+      "gold_spans": [
+        "Molecular dynamics, in vitro aggregation assays, and NMR studies have validated the binding and structural stabilization of Aβ and α-Syn into hybrid species."
+      ],
+      "sample": 1,
+      "status": "malformed_json",
+      "explanation": "Expecting property name enclosed in double quotes at character 440",
+      "parsed_steps": [],
+      "raw_output": "{\n  \"steps\": [\n    {\n      \"span\": \"Molecular dynamics simulations and in vitro studies demonstrate that amyloid-beta protein binds to alpha-synuclein monomers, dimers, and trimers, stabilizing the formation of hybrid ring-like oligomers that adopt a pore-like structure.\",\n      \"relation\": \"claim\"\n    },\n    {\n      \"span\": \"In PD, α-Syn aggregation forms inclusive pathology involving motor neurons and dopamine-producing cells.\",\n     "
+    },
+    {
+      "paragraph_id": "64753:answer_2",
+      "claim_id": "64753:claim_1",
+      "claim": "Amyloid-beta protein directly interacts with alpha-synuclein in the brains of patients with Lewy body disease and in transgenic mice, forming hybrid complexes that contribute to the pathogenesis of neurodegenerative disorders.",
+      "sentence": "**Summary: Hybrid Oligomer Formation in the Pathogenesis of Alzheimer's and Parkinson's Diseases**\n\nRecent research highlights that Alzheimer’s disease (AD) and Parkinson’s disease (PD) are intimately connected through the formation of **hybrid oligomers**—protein aggregates composed of mixed species of amyloid-beta (Aβ) and alpha-synuclein (α-Syn).",
+      "gold_used": false,
+      "gold_spans": [],
+      "sample": 1,
+      "status": "non_verbatim_span",
+      "explanation": "span is not an exact sentence substring: 'Amyloid-beta protein directly interacts with alpha-synuclein in the brains of patients with Lewy body disease and in transgenic mice, forming hybrid complexes that contribute to the pathogenesis of neurodegenerative disorders.'",
+      "parsed_steps": [],
+      "raw_output": "{\n  \"steps\": [\n    {\n      \"span\": \"Amyloid-beta protein directly interacts with alpha-synuclein in the brains of patients with Lewy body disease and in transgenic mice, forming hybrid complexes that contribute to the pathogenesis of neurodegenerative disorders.\",\n      \"relation\": \"none\"\n    }\n  ]\n}"
+    },
+    {
+      "paragraph_id": "64753:answer_2",
+      "claim_id": "64753:claim_2",
+      "claim": "Molecular dynamics simulations and in vitro studies demonstrate that amyloid-beta protein binds to alpha-synuclein monomers, dimers, and trimers, stabilizing the formation of hybrid ring-like oligomers that adopt a pore-like structure.",
+      "sentence": "**Summary: Hybrid Oligomer Formation in the Pathogenesis of Alzheimer's and Parkinson's Diseases**\n\nRecent research highlights that Alzheimer’s disease (AD) and Parkinson’s disease (PD) are intimately connected through the formation of **hybrid oligomers**—protein aggregates composed of mixed species of amyloid-beta (Aβ) and alpha-synuclein (α-Syn).",
+      "gold_used": false,
+      "gold_spans": [],
+      "sample": 1,
+      "status": "non_verbatim_span",
+      "explanation": "span is not an exact sentence substring: 'Molecular dynamics simulations and in vitro studies demonstrate that amyloid-beta protein binds to alpha-synuclein monomers, dimers, and trimers, stabilizing the formation of hybrid ring-like oligomers that adopt a pore-like structure.'",
+      "parsed_steps": [],
+      "raw_output": "{\n  \"steps\": [\n    {\n      \"span\": \"Molecular dynamics simulations and in vitro studies demonstrate that amyloid-beta protein binds to alpha-synuclein monomers, dimers, and trimers, stabilizing the formation of hybrid ring-like oligomers that adopt a pore-like structure.\",\n      \"relation\": \"none\"\n    }\n  ]\n}"
+    },
+    {
+      "paragraph_id": "64753:answer_2",
+      "claim_id": "64753:claim_3",
+      "claim": "Hybrid oligomers of amyloid-beta and alpha-synuclein form functional cation channels in membranes, leading to increased ion conductance and calcium influx, which may contribute to neuronal dysfunction.",
+      "sentence": "**Summary: Hybrid Oligomer Formation in the Pathogenesis of Alzheimer's and Parkinson's Diseases**\n\nRecent research highlights that Alzheimer’s disease (AD) and Parkinson’s disease (PD) are intimately connected through the formation of **hybrid oligomers**—protein aggregates composed of mixed species of amyloid-beta (Aβ) and alpha-synuclein (α-Syn).",
+      "gold_used": false,
+      "gold_spans": [],
+      "sample": 1,
+      "status": "non_verbatim_span",
+      "explanation": "span is not an exact sentence substring: 'Hybrid oligomers of amyloid-beta and alpha-synuclein form functional cation channels in membranes, leading to increased ion conductance and calcium influx, which may contribute to neuronal dysfunction.'",
+      "parsed_steps": [],
+      "raw_output": "{\n  \"steps\": [\n    {\n      \"span\": \"Hybrid oligomers of amyloid-beta and alpha-synuclein form functional cation channels in membranes, leading to increased ion conductance and calcium influx, which may contribute to neuronal dysfunction.\",\n      \"relation\": \"none\"\n    }\n  ]\n}"
+    }
+  ]
+}

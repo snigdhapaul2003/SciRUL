@@ -1,0 +1,34 @@
+{
+  "claim_paragraph_usage": {
+    "tp": 43,
+    "fp": 0,
+    "fn": 11,
+    "tn": 551,
+    "accuracy": 0.9818181818181818,
+    "precision": 1.0,
+    "recall": 0.7962962962962963,
+    "f1": 0.8865979381443299
+  },
+  "span_exact": {
+    "matching": 28,
+    "predicted": 65,
+    "gold": 57,
+    "precision": 0.4307692307692308,
+    "recall": 0.49122807017543857,
+    "f1": 0.4590163934426229
+  },
+  "character_overlap_micro": {
+    "intersection_chars": 6916,
+    "predicted_chars": 8888,
+    "gold_chars": 10435,
+    "precision": 0.7781278127812782,
+    "recall": 0.6627695256348826,
+    "f1": 0.7158308751229105,
+    "iou": 0.557427258805513
+  },
+  "parse_failures": 14,
+  "evaluated_paragraphs": 11,
+  "catalog_claims": 55,
+  "abstention_rate": 0.0,
+  "evaluation_scope": "end-to-end paragraph x full frozen claim catalogue"
+}

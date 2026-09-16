@@ -1,0 +1,12 @@
+{
+  "alpha": 0.05,
+  "calibration_correct_steps": 17,
+  "all_emitted_verified_steps": 63,
+  "exactly_correct_emitted_steps": 17,
+  "raw_step_precision": 0.2698412698412698,
+  "finite_sample_rank": 17,
+  "nonconformity_quantile": 0.8,
+  "step_confidence_threshold": 0.19999999999999996,
+  "empirical_coverage": 1.0,
+  "target_coverage": 0.95
+}

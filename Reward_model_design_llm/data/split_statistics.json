@@ -1,0 +1,14 @@
+{
+  "train": {
+    "paragraphs": 77,
+    "papers": 11
+  },
+  "calibration": {
+    "paragraphs": 11,
+    "papers": 11
+  },
+  "test": {
+    "paragraphs": 11,
+    "papers": 11
+  }
+}
