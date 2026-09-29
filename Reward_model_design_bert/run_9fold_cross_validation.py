@@ -1,4 +1,4 @@
-"""Nine-fold cross-validation, holding out answer_1 through answer_9 in turn."""
+"""Nine-fold cross-validation over positive and negative judged answers."""
 
 from __future__ import annotations
 
@@ -42,7 +42,7 @@ METRICS_TO_AVERAGE = (
     "macro_character_iou",
     "exact_character_set_match_rate",
 )
-PIPELINE_VERSION = 4
+PIPELINE_VERSION = 5
 
 
 def answer_number(example: PairExample) -> int:
@@ -50,9 +50,11 @@ def answer_number(example: PairExample) -> int:
         number = int(example.paragraph_id.rsplit(":answer_", 1)[1])
     except (IndexError, ValueError) as error:
         raise ValueError(f"Cannot find answer number in {example.paragraph_id!r}") from error
-    if number not in range(1, 10):
-        raise ValueError(f"Answer number must be 1..9, got {number}")
-    return number
+    if number < 1:
+        raise ValueError(f"Answer number must be positive, got {number}")
+    # The large dataset combines multiple sources in consecutive groups of
+    # nine. Corresponding positions in every group belong to the same CV fold.
+    return (number - 1) % 9 + 1
 
 
 def fold_split(
@@ -83,9 +85,15 @@ def fold_split(
             calibration.append(example)
         else:
             train.append(example)
-    papers = {x.paper_id for x in examples}
-    assert len({x.paragraph_id for x in test}) == len(papers)
-    assert len({x.paragraph_id for x in calibration}) == len(papers)
+    expected_test_ids = {
+        x.paragraph_id for x in examples if answer_number(x) == test_answer
+    }
+    expected_calibration_ids = {
+        x.paragraph_id for x in examples
+        if answer_number(x) == calibration_answer
+    }
+    assert {x.paragraph_id for x in test} == expected_test_ids
+    assert {x.paragraph_id for x in calibration} == expected_calibration_ids
     return train, calibration, test, calibration_answer
 
 
@@ -465,7 +473,8 @@ def main() -> None:
     here = Path(__file__).resolve().parent
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
-        "--input", type=Path, default=here / "claims_and_answers_judged.json"
+        "--input", type=Path,
+        default=here / "claims_and_answers_judged_large_neg.json"
     )
     parser.add_argument("--output-dir", type=Path, default=here / "runs" / "9fold_cv")
     parser.add_argument("--epochs", type=int, default=5)

@@ -68,35 +68,48 @@ def load_pairs(path: Path) -> list[PairExample]:
         paper_id = str(sample.get("record_id", sample_index))
         raw_claims = sample.get("anchor_claims", [])
         claims = [c.get("text") if isinstance(c, dict) else c for c in raw_claims]
-        answers, judgments = sample.get("answers", {}), sample.get("judgments", {})
-        if not isinstance(answers, dict) or not isinstance(judgments, dict):
-            continue
-        for answer_key, paragraph in answers.items():
-            judgment = judgments.get(answer_key, {})
-            if not isinstance(paragraph, str) or not isinstance(judgment, dict):
+        sections = (
+            (("positive", sample.get("positive")),
+             ("negative", sample.get("negative")))
+            if "positive" in sample or "negative" in sample
+            else (("positive", sample),)
+        )
+        for sample_type, section in sections:
+            if not isinstance(section, dict):
                 continue
-            raw_spans = judgment.get("spans", [])
-            for claim_index, claim in enumerate(claims, 1):
-                if not isinstance(claim, str) or not claim.strip():
+            answers = section.get("answers", {})
+            judgments = section.get("judgments", {})
+            if not isinstance(answers, dict) or not isinstance(judgments, dict):
+                continue
+            for answer_key, paragraph in answers.items():
+                judgment = judgments.get(answer_key, {})
+                if not isinstance(paragraph, str) or not isinstance(judgment, dict):
                     continue
-                spans: list[CharSpan] = []
-                for raw in raw_spans if isinstance(raw_spans, list) else []:
-                    if not isinstance(raw, dict) or claim_index not in raw.get("claim_numbers", []):
+                raw_spans = judgment.get("spans", [])
+                for claim_index, claim in enumerate(claims, 1):
+                    if not isinstance(claim, str) or not claim.strip():
                         continue
-                    span = CharSpan(int(raw["start"]), int(raw["end"]), str(raw["text"]))
-                    span.validate(paragraph)
-                    spans.append(span)
-                pairs.append(
-                    PairExample(
-                        paper_id=paper_id,
-                        claim_id=f"{paper_id}:claim_{claim_index}",
-                        claim=claim,
-                        paragraph_id=f"{paper_id}:{answer_key}",
-                        paragraph=paragraph,
-                        used=int(bool(spans)),
-                        spans=tuple(spans),
+                    spans: list[CharSpan] = []
+                    for raw in raw_spans if isinstance(raw_spans, list) else []:
+                        if (not isinstance(raw, dict)
+                                or claim_index not in raw.get("claim_numbers", [])):
+                            continue
+                        span = CharSpan(
+                            int(raw["start"]), int(raw["end"]), str(raw["text"])
+                        )
+                        span.validate(paragraph)
+                        spans.append(span)
+                    pairs.append(
+                        PairExample(
+                            paper_id=paper_id,
+                            claim_id=f"{paper_id}:claim_{claim_index}",
+                            claim=claim,
+                            paragraph_id=f"{paper_id}:{sample_type}:{answer_key}",
+                            paragraph=paragraph,
+                            used=int(bool(spans)),
+                            spans=tuple(spans),
+                        )
                     )
-                )
     if not pairs:
         raise ValueError("No claim-paragraph pairs could be adapted")
     return pairs

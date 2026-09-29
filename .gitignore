@@ -6,3 +6,7 @@ venv/
 Reward_model_design_bert/runs/deberta/joint_deberta.pt
 Reward_model_design_llm/runs/lora/
 Reward_model_design_llm/runs/lora_span_only
+Reward_model_design_without_claim/runs
+Reward_model_design_without_claim/runs_large
+Reward_model_design_without_claim/runs_large_neg
+Reward_model_design_without_claim/runs_large_neg_corr
